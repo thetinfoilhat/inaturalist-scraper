@@ -1,9 +1,10 @@
 import argparse
 import asyncio
+import json
 import logging
 import os
 import re
-from typing import Iterable, List
+from typing import Iterable, List, TypedDict
 
 import aiohttp
 
@@ -18,17 +19,39 @@ OBSERVATIONS_URL = (
 )
 IMAGE_URL = "https://inaturalist-open-data.s3.amazonaws.com/photos/{id}/medium.{ext}"
 
+
 def slugify(name: str) -> str:
     cleaned = re.sub(r"[^A-Za-z0-9._-]+", "_", name.strip().lower())
     return cleaned.strip("_") or "specimen"
 
 
-def iter_nats_list(path: str) -> Iterable[str]:
+class WaterEntry(TypedDict):
+    common_name: str
+    scientific_genera: List[str]
+
+
+def load_water_entries(path: str) -> List[WaterEntry]:
     with open(path, "r") as f:
-        for line in f:
-            name = line.strip()
-            if name:
-                yield name
+        data = json.load(f)
+    if not isinstance(data, list):
+        raise ValueError("water.json must be a list of entries")
+    entries: List[WaterEntry] = []
+    for item in data:
+        if not isinstance(item, dict):
+            raise ValueError("water.json entries must be objects")
+        common = item.get("common_name")
+        genera = item.get("scientific_genera")
+        if not isinstance(common, str) or not isinstance(genera, list):
+            raise ValueError(
+                "water.json entries must have common_name and scientific_genera"
+            )
+        entries.append(
+            {
+                "common_name": common,
+                "scientific_genera": [str(g) for g in genera if str(g).strip()],
+            }
+        )
+    return entries
 
 
 def next_filename(outdir: str, base: str, ext: str) -> str:
@@ -139,6 +162,8 @@ async def download_images(
                     logger.warning("download failed (%s): %s", url, resp.status)
                     continue
                 ext = url.split(".")[-1].split("?")[0].lower() or "bin"
+                if ext == "jpeg":
+                    ext = "jpg"
                 path = next_filename(outdir, base, ext)
                 with open(path, "wb") as f:
                     while True:
@@ -154,41 +179,47 @@ async def download_images(
 
 
 async def run(args: argparse.Namespace) -> None:
-    taxa = list(iter_nats_list(args.nats_list))
+    entries = load_water_entries(args.water_json)
     if args.limit_taxa:
-        taxa = taxa[: args.limit_taxa]
+        entries = entries[: args.limit_taxa]
 
     os.makedirs(args.outdir, exist_ok=True)
 
     connector = aiohttp.TCPConnector(ssl=False)
     async with aiohttp.ClientSession(connector=connector) as session:
-        for taxon in taxa:
-            logger.info("taxon: %s", taxon)
-            urls = await get_urls_for_taxon(session, taxon, args.per_taxon)
-            if len(urls) > args.per_taxon:
-                urls = urls[: args.per_taxon]
-            logger.info("urls returned: %s", len(urls))
-            if not urls:
-                print(f"skip: no photos for {taxon}")
+        for entry in entries:
+            common_name = entry["common_name"]
+            genera = entry["scientific_genera"]
+            if not genera:
+                print(f"skip: no genera for {common_name}")
                 continue
+            for genus in genera:
+                logger.info("taxon: %s (%s)", genus, common_name)
+                urls = await get_urls_for_taxon(session, genus, args.per_taxon)
+                if len(urls) > args.per_taxon:
+                    urls = urls[: args.per_taxon]
+                logger.info("urls returned: %s", len(urls))
+                if not urls:
+                    print(f"skip: no photos for {genus} ({common_name})")
+                    continue
 
-            saved = await download_images(session, urls, args.outdir, taxon)
-            print(f"{taxon}: saved {saved} image(s)")
+                saved = await download_images(session, urls, args.outdir, common_name)
+                print(f"{common_name} ({genus}): saved {saved} image(s)")
 
 
 def main() -> None:
     logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
     parser = argparse.ArgumentParser(
-        description="Download iNaturalist images for taxa in NATS list.",
+        description="Download iNaturalist images for entries in water.json.",
     )
     parser.add_argument(
-        "--nats-list",
-        default=os.path.join("data", "state", "NATS", "list.txt"),
-        help="Path to NATS list.txt file.",
+        "--water-json",
+        default="water.json",
+        help="Path to water.json file.",
     )
     parser.add_argument(
         "--outdir",
-        default="inat_images",
+        default="water",
         help="Output directory for images.",
     )
     parser.add_argument(
