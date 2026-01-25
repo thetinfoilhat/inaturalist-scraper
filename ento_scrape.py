@@ -3,13 +3,18 @@ import asyncio
 import logging
 import os
 import re
+from io import BytesIO
 from typing import Iterable, List
 
 import aiohttp
+try:
+    from PIL import Image
+except ImportError as exc:
+    raise SystemExit("Pillow is required to save images as .webp files.") from exc
 
 logger = logging.getLogger("inat_scrape")
 
-TAXON_ID_URL = "https://api.inaturalist.org/v1/taxa?q={taxon}&rank=genus&per_page=50"
+TAXON_ID_URL = "https://api.inaturalist.org/v1/taxa?q={taxon}&per_page=50"
 OBSERVATIONS_URL = (
     "https://api.inaturalist.org/v1/observations?photos=true&photo_licensed=true"
     + "&place_id=46,10,50,22,14,16,15,52,34,40,9,13,44,3,25,12,18,38,24,28,36,27,32,29,35,20,31,33,26,45,37,19,17,41,47,2,8,49,48,51,42,4,39,5,7,30,43,23,21"
@@ -66,21 +71,6 @@ async def get_taxon_id(taxon: str, session: aiohttp.ClientSession) -> int | None
     results = data.get("results", [])
     if not results:
         return None
-    exact = [
-        item
-        for item in results
-        if item.get("rank") == "genus"
-        and str(item.get("name", "")).lower() == taxon.lower()
-    ]
-    if exact:
-        if len(exact) > 1:
-            logger.info(
-                "multiple genus matches for %s: %s",
-                taxon,
-                ", ".join(str(item.get("id")) for item in exact),
-            )
-        exact.sort(key=lambda x: x.get("observations_count", 0), reverse=True)
-        return exact[0]["id"]
     results = sorted(results, key=lambda x: x["rank_level"], reverse=True)
     return results[0]["id"]
 
@@ -94,6 +84,7 @@ async def get_urls(
     taxon_id = await get_taxon_id(item, session)
     if not taxon_id:
         logger.info("no taxon id found for %s", item)
+        return (0, tuple(), tuple())
 
     urls = []
     ids = []
@@ -138,14 +129,10 @@ async def download_images(
                 if resp.status != 200:
                     logger.warning("download failed (%s): %s", url, resp.status)
                     continue
-                ext = url.split(".")[-1].split("?")[0].lower() or "bin"
-                path = next_filename(outdir, base, ext)
-                with open(path, "wb") as f:
-                    while True:
-                        block = await resp.content.read(1024 * 8)
-                        if not block:
-                            break
-                        f.write(block)
+                data = await resp.read()
+                with Image.open(BytesIO(data)) as img:
+                    path = next_filename(outdir, base, "webp")
+                    img.save(path, format="WEBP")
                 saved += 1
         except aiohttp.ClientError:
             logger.warning("download error: %s", url)

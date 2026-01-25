@@ -3,8 +3,14 @@ import re
 import ssl
 import sys
 import time
+from io import BytesIO
 from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
+
+try:
+    from PIL import Image, UnidentifiedImageError
+except ImportError as exc:
+    raise SystemExit("Pillow is required to save images as .webp files.") from exc
 
 BASE_ROOT = "https://www.scioly.rocks"
 OUTPUT_DIR = "rocks"
@@ -26,12 +32,12 @@ def to_filename_base(name: str) -> str:
 
 
 def next_filename(outdir: str, base: str) -> str:
-    base_path = os.path.join(outdir, f"{base}.jpg")
+    base_path = os.path.join(outdir, f"{base}.webp")
     if not os.path.exists(base_path):
         return base_path
     index = 1
     while True:
-        candidate = os.path.join(outdir, f"{base}({index}).jpg")
+        candidate = os.path.join(outdir, f"{base}({index}).webp")
         if not os.path.exists(candidate):
             return candidate
         index += 1
@@ -73,8 +79,12 @@ def download_sequence(base_url: str, filename_base: str) -> int:
                 print(f"no images at {base_url}")
             break
         path = next_filename(OUTPUT_DIR, filename_base)
-        with open(path, "wb") as f:
-            f.write(content)
+        try:
+            with Image.open(BytesIO(content)) as img:
+                img.save(path, format="WEBP")
+        except UnidentifiedImageError:
+            print(f"warning: skipping non-image response at {url}")
+            break
         count += 1
         index += 1
         time.sleep(0.1)
@@ -82,12 +92,22 @@ def download_sequence(base_url: str, filename_base: str) -> int:
 
 
 def main() -> int:
+    start_from = None
+    if len(sys.argv) > 1:
+        if sys.argv[1] == "--start" and len(sys.argv) > 2:
+            start_from = sys.argv[2].strip()
+        elif sys.argv[1].startswith("--"):
+            start_from = sys.argv[1][2:].strip()
+
     if not os.path.exists(INPUT_FILE):
         print(f"missing input file: {INPUT_FILE}")
         return 1
 
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     specimens = read_specimens(INPUT_FILE)
+    if start_from:
+        start_lower = start_from.lower()
+        specimens = [s for s in specimens if s.lower() >= start_lower]
 
     for specimen in specimens:
         pascal = to_pascal(specimen)

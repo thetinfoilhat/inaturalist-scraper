@@ -1,0 +1,12 @@
+tenthredinidae,common sawflies
+siricidae,horntails
+ichneumonidae,ichneumonid wasps
+cynipidae,gall wasps
+mutillidae,velvet ants
+formicidae,ants
+vespidae,hornets,paper wasps,potter wasps
+sphecidae,thread-waisted wasps
+braconidae,braconid wasps
+halictidae,sweat bees
+megachilidae,mason bees,leafcutter bees,carder bees,resin bees
+apidae,honey bees,bumble bees

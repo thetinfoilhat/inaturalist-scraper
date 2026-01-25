@@ -1,0 +1,5435 @@
+[
+  {
+    "id": "d256814b-8fb9-5ac8-87ff-e44ea69220f1",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Gabbro",
+      "Quartzite",
+      "Actinolite",
+      "Shale"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Metamorphic"
+    ],
+    "difficulty": 0.71,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "2a52ccf0-2f49-53c5-80d6-680acdbcce16",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Actinolite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Metamorphic"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "5c27b3ff-37bf-512f-a6c4-b57d06c0bdfd",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Pyrite",
+      "Agate",
+      "Gabbro",
+      "Shale"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Sedimentary"
+    ],
+    "difficulty": 0.36,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "dcfb6a6f-3615-5519-9709-1dc42240011d",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Agate"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Sedimentary"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "2f48ca79-2949-53fc-9438-fb176983cf62",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Alabaster",
+      "Halite",
+      "Schist",
+      "Gabbro"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Sedimentary",
+      "Mineral Properties"
+    ],
+    "difficulty": 0.52,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "2f7c44be-e490-5eba-bf86-a9508d28976c",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Alabaster"
+    ],
+    "subtopics": [
+      "Sedimentary",
+      "Mineral Properties"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "3f47472d-36a6-55ec-8513-e52878687f2b",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Granite",
+      "Albite",
+      "Shale",
+      "Bauxite"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.71,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "0df284d4-cc60-5a85-a95b-b2d3a78e3ae6",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Albite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "14a41711-0145-5d63-ac15-131ee962b396",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Gneiss",
+      "Basalt",
+      "Almandine",
+      "Selenite"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Metamorphic",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.69,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "d72efabb-8e22-5844-a0f6-69efe69cb682",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Almandine"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Metamorphic",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "a92695b6-b723-5821-b247-dbec2979845c",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Amazonite",
+      "Gabbro",
+      "Pyrite",
+      "Calcite"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.73,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "e9ab13d3-0d85-524d-8114-504c379ef58e",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Amazonite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "2c6fce30-3509-5ef9-a738-709ec9ac1fc1",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Copper",
+      "Gabbro",
+      "Shale",
+      "Amethyst"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.78,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "b5934a82-df46-5bf7-a0dc-346bd6f8ae69",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Amethyst"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "f274a655-de18-5486-8ffc-7e28ebc45139",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Pyrite",
+      "Obsidian",
+      "Amphibolite",
+      "Limestone"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Metamorphic"
+    ],
+    "difficulty": 0.5,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "bdb7f00f-e2d4-5b9c-88b1-93d33f26dc83",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Amphibolite"
+    ],
+    "subtopics": [
+      "Metamorphic"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "deeaacc5-f948-51d1-9d0d-68fa3f406e00",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Gypsum",
+      "Andesite",
+      "Quartzite",
+      "Gabbro"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Igneous"
+    ],
+    "difficulty": 0.62,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "17998162-4551-5e84-9f29-9f4ff33e0086",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Andesite"
+    ],
+    "subtopics": [
+      "Igneous"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "05128ca0-d6b7-5328-b7bc-d8c34e9c73d4",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Anthracite",
+      "Gabbro",
+      "Halite",
+      "Quartzite"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Metamorphic",
+      "Mineral Properties"
+    ],
+    "difficulty": 0.37,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "28203804-ddb7-568b-b483-068ac3b6e79f",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Anthracite"
+    ],
+    "subtopics": [
+      "Metamorphic",
+      "Mineral Properties"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "5a54584e-62cc-5df7-829e-546d1ce0afb8",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Gabbro",
+      "Orthoclase",
+      "Shale",
+      "Apatite"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.38,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "f5a7c940-e75d-5be7-b3f3-3f173c6c5235",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Apatite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "6327b46e-d7d6-5d9b-ba2c-589086336b33",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Apophyllite",
+      "Amphibole",
+      "Obsidian",
+      "Gabbro"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.64,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "d3890535-988d-58b6-ac8c-107ba1d601bd",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Apophyllite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "e759156c-1b8c-515b-9e77-ad730146d949",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Olivine",
+      "Gneiss",
+      "Aragonite",
+      "Basalt"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.99,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "a36d1c67-199a-579f-b1d9-51a771d4b357",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Aragonite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "2ccac7ee-fc0e-55bd-8195-37e54248c157",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Quartzite",
+      "Gabbro",
+      "Arkose",
+      "Malachite"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Sedimentary"
+    ],
+    "difficulty": 0.51,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "a8f9c401-5d9a-513a-ac76-33b2838c4bd5",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Arkose"
+    ],
+    "subtopics": [
+      "Sedimentary"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "d202d94e-9fcd-5cf2-a494-a78853e41651",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Halite",
+      "Augite",
+      "Gabbro",
+      "Pumice"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Igneous"
+    ],
+    "difficulty": 0.3,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "ac3b2eb4-49fa-5217-b045-32822ec6a429",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Augite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Igneous"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "2cdc8e82-2668-5e29-8005-48ad82776cd9",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Gabbro",
+      "Shale",
+      "Calcite",
+      "Aventurine"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Metamorphic"
+    ],
+    "difficulty": 0.42,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "cd43a029-93ca-5a17-8183-f538a59124bc",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Aventurine"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Metamorphic"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "6a82ea59-8779-54b8-8b77-9913e9041f5d",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Flint",
+      "Gabbro",
+      "Amphibole",
+      "Azurite"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "4ae941f7-26ec-5fde-a9c3-b17f617158a2",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Azurite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "6d337ec3-365b-57c0-99cd-a6d74972ae48",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Gabbro",
+      "Amphibolite",
+      "Shale",
+      "Banded iron formation"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Sedimentary"
+    ],
+    "difficulty": 0.59,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "deda7e70-028c-5077-9258-cc501d7f7ac4",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Banded Iron Formation"
+    ],
+    "subtopics": [
+      "Sedimentary"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "52bf5540-1b1d-54e8-8433-1509cb590a3f",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Shale",
+      "Gabbro",
+      "Quartz",
+      "Barite"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.62,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "abf66859-adc7-5f26-b1be-2e87a251e9f1",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Barite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "fe102d0c-e838-55a1-ba2f-9e9cbbdaa693",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Shale",
+      "Quartz",
+      "Basalt",
+      "Gabbro"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Igneous"
+    ],
+    "difficulty": 0.65,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "f813a7ac-79d3-5952-806c-b57aaf4dbd5c",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Basalt"
+    ],
+    "subtopics": [
+      "Igneous"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "f0226127-ca86-5799-b72a-3bffab9577c9",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Bauxite",
+      "Galena",
+      "Obsidian",
+      "Quartzite"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Sedimentary",
+      "Mineral Properties"
+    ],
+    "difficulty": 0.29,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "8170d2b6-b674-5ad4-a7da-9b326967580b",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Bauxite"
+    ],
+    "subtopics": [
+      "Sedimentary",
+      "Mineral Properties"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "56770190-eb30-5751-b647-50e69c840e2c",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Pyrite",
+      "Shale",
+      "Gabbro",
+      "Beryl"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.41,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "3b017a99-7f39-5110-b575-4309a1cf021f",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Beryl"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "65941b83-499b-58b4-98fc-b9d18ecafa40",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Orthoclase",
+      "Gabbro",
+      "Biotite",
+      "Shale"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Igneous"
+    ],
+    "difficulty": 0.51,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "49ef7296-cf03-5906-97df-e4784eee6650",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Biotite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Igneous"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "62ef4eb1-dbd3-5358-9a96-06ac974763c7",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Quartzite",
+      "Pyrite",
+      "Gabbro",
+      "Bituminous"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Sedimentary"
+    ],
+    "difficulty": 0.68,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "f8067ed6-2402-57ad-8b11-872f041f0f7d",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Bituminous"
+    ],
+    "subtopics": [
+      "Sedimentary"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "b43bb437-93e2-5688-842e-ee64a0dbe1eb",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Quartzite",
+      "Gabbro",
+      "Bornite",
+      "Malachite"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Mineral Properties"
+    ],
+    "difficulty": 0.25,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "8ed7a776-9dc5-575e-ae55-c3de91ecfea4",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Bornite"
+    ],
+    "subtopics": [
+      "Mineral Properties"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "654ce642-4844-5b00-9385-28b76d79fe01",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Amphibolite",
+      "Orthoclase",
+      "Breccia",
+      "Obsidian"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Sedimentary"
+    ],
+    "difficulty": 0.29,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "32b06635-68bd-533f-a409-311479bf9138",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Breccia"
+    ],
+    "subtopics": [
+      "Sedimentary"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "a2a33d07-3b9e-5165-923f-30e21db19f2b",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Calcite",
+      "Gabbro",
+      "Shale",
+      "Quartz"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.4,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "e535ea8e-611a-5bba-9be6-04cf22cbcd24",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Calcite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "1367150d-7e31-5a62-ba0b-fa20579674ed",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Quartzite",
+      "Limestone",
+      "Celestite",
+      "Gabbro"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.42,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "54d411f1-da01-52a1-9ddd-3008b0239c8d",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Celestite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "e061abed-aac0-56b3-9199-c7d984b36f59",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Kyanite",
+      "Chalcedony",
+      "Shale",
+      "Gabbro"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.65,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "7c9c4dfe-f587-52d2-b3f8-ee5adf7a8d2e",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Chalcedony"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "8c7d4462-f7b8-5d4e-a877-27e44c73e422",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Chalcopyrite",
+      "Amphibole",
+      "Limestone",
+      "Obsidian"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.82,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "e558200a-f8ad-5a6b-815b-ef4ca31c65c5",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Chalcopyrite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "bb18a783-7d0b-5496-9ca9-8e3a7671da73",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Gabbro",
+      "Orthoclase",
+      "Shale",
+      "Chalk"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Sedimentary",
+      "Mineral Properties"
+    ],
+    "difficulty": 0.62,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "63626af9-010b-52d2-90a7-2b9116a6a024",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Chalk"
+    ],
+    "subtopics": [
+      "Sedimentary",
+      "Mineral Properties"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "ec278c4f-0f9c-543e-bf25-acb632133dc9",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Gabbro",
+      "Schist",
+      "Chert",
+      "Pyrite"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Sedimentary",
+      "Mineral Properties"
+    ],
+    "difficulty": 0.49,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "3afa2f1f-3fa9-55dc-82eb-992954e2868a",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Chert"
+    ],
+    "subtopics": [
+      "Sedimentary",
+      "Mineral Properties"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "45028dee-7a72-5700-8430-31ebaca0a985",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Pyrite",
+      "Chrysocolla",
+      "Shale",
+      "Gabbro"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Mineral Properties"
+    ],
+    "difficulty": 0.52,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "ec186943-47d2-5447-a24d-b335f3991a7f",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Chrysocolla"
+    ],
+    "subtopics": [
+      "Mineral Properties"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "c5c9259f-a1e4-5e9b-86ed-886ee2d58bda",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Pyrite",
+      "Gabbro",
+      "Citrine",
+      "Shale"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.39,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "a7571ff8-830c-59af-bcf4-f6ded282c016",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Citrine"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "999be56e-669f-5070-9498-4c99b978ddb8",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Amphibolite",
+      "Conglomerate",
+      "Gypsum",
+      "Obsidian"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Sedimentary"
+    ],
+    "difficulty": 0.44,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "d920147c-3afe-503b-a563-a0e5c01bc733",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Conglomerate"
+    ],
+    "subtopics": [
+      "Sedimentary"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "908a1444-9693-5613-827f-9574eae21027",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Basalt",
+      "Copper",
+      "Quartzite",
+      "Pyrite"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.47,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "e519f42b-7e8b-5c40-b835-cf343b9b0067",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Copper"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "77d9ca76-0058-5069-a28b-fc8bde231a51",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Bauxite",
+      "Coquina",
+      "Gabbro",
+      "Schist"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Sedimentary"
+    ],
+    "difficulty": 0.78,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "98147b7c-4b6f-5b69-8ed9-1836020ee645",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Coquina"
+    ],
+    "subtopics": [
+      "Sedimentary"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "e828a50e-2bd4-5bff-bf02-9dffed4d5fb4",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Shale",
+      "Olivine",
+      "Corundum",
+      "Gabbro"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.39,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "5af0f1c5-1a4b-59b7-988b-817776b57003",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Corundum"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "8ac8d4ef-e456-5788-9a74-5519ae45b851",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Diamond",
+      "Gypsum",
+      "Basalt",
+      "Gneiss"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.59,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "52ebe856-402b-590f-a4a5-2f714e1a5921",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Diamond"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "095b50f8-4f79-5406-a3e6-09cf8722db0a",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Gabbro",
+      "Pyroxenite",
+      "Diatomite",
+      "Halite"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Sedimentary",
+      "Mineral Properties"
+    ],
+    "difficulty": 0.44,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "084be1be-7489-5607-952f-de3c14e83b82",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Diatomite"
+    ],
+    "subtopics": [
+      "Sedimentary",
+      "Mineral Properties"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "28060104-0200-563e-87a9-9b16dcb3bfac",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Pyrite",
+      "Limestone",
+      "Dioptase",
+      "Gabbro"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.58,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "edeca5c4-48a9-5ddc-bcff-d08729b5008e",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Dioptase"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "a2bcaf9c-01c6-5993-9881-3a4cf1c9e088",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Diorite",
+      "Gypsum",
+      "Quartzite",
+      "Gabbro"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Igneous"
+    ],
+    "difficulty": 0.2,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "b23f7b25-0936-5b75-b0db-e4d89adb0013",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Diorite"
+    ],
+    "subtopics": [
+      "Igneous"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "55f488b3-c6cb-5713-9da8-d1ddbbd67f95",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Shale",
+      "Pyrite",
+      "Dolomite",
+      "Gabbro"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Sedimentary",
+      "Mineral Properties"
+    ],
+    "difficulty": 0.71,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "aa0347e4-cc3a-5c7b-b34d-d16be5857411",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Dolomite"
+    ],
+    "subtopics": [
+      "Sedimentary",
+      "Mineral Properties"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "cbeb30fe-5b20-53cf-93b2-5b03b06beda7",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Gneiss",
+      "Dolostone",
+      "Pyroxenite",
+      "Halite"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Sedimentary"
+    ],
+    "difficulty": 0.81,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "751a2b7a-959c-5613-bf76-cf2be662e482",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Dolostone"
+    ],
+    "subtopics": [
+      "Sedimentary"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "eb2f8d3b-278a-5805-9b2e-6f8499cef7a6",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Halite",
+      "Shale",
+      "Gabbro",
+      "Epidote"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.33,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "438ad4d3-7392-5e7d-841e-45587c2c3b48",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Epidote"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "866ada53-eba2-5a7a-89dc-b0f5018c6664",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Gabbro",
+      "Fluorapatite",
+      "Shale",
+      "Olivine"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.41,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "bb2fc8eb-14a3-5429-8afe-775d21e6e024",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Fluorapatite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "8a195f38-7b54-5f81-9de7-0b7049a196d6",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Shale",
+      "Gabbro",
+      "Fluorite",
+      "Calcite"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.24,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "a6e3708a-479c-5b76-8011-73050472db1d",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Fluorite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "49d3e81c-0585-55b0-819d-292c037ffba8",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Gabbro",
+      "Fossil limestone",
+      "Quartzite",
+      "Bauxite"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Sedimentary",
+      "Mineral Properties"
+    ],
+    "difficulty": 0.33,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "d146e8ba-91ee-5ed6-8dbe-1b40c51042d1",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Fossil Limestone"
+    ],
+    "subtopics": [
+      "Sedimentary",
+      "Mineral Properties"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "cc685b3b-fd79-5c23-b505-7712c7a7e4b5",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Schist",
+      "Orthoclase",
+      "Flint",
+      "Gabbro"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Igneous"
+    ],
+    "difficulty": 0.48,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "e56b83f1-f257-5318-9229-d3e9b78b3ccf",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Gabbro"
+    ],
+    "subtopics": [
+      "Igneous"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "3a9f0b49-2ca3-5072-9aae-0fafc7281aa3",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Basalt",
+      "Gypsum",
+      "Galena",
+      "Quartzite"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.47,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "61d70c8a-5177-5d5c-9d08-955ea96070a4",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Galena"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "94b8d455-f47c-576a-8dd6-b70d45a5f523",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Bituminous coal",
+      "Garnet schist",
+      "Andesite",
+      "Orthoclase"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Metamorphic",
+      "Mineral Properties"
+    ],
+    "difficulty": 0.62,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "0b58399c-3f41-5c48-9bda-88fd2f9c9d72",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Garnet Schist"
+    ],
+    "subtopics": [
+      "Metamorphic",
+      "Mineral Properties"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "a2e51f7e-509b-51f7-9f2b-99eefba98b77",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Gneiss",
+      "Obsidian",
+      "Quartzite",
+      "Dolomite"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Metamorphic"
+    ],
+    "difficulty": 0.39,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "212a0d06-ebd5-5e3c-bfe9-455bd4ca131f",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Gneiss"
+    ],
+    "subtopics": [
+      "Metamorphic"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "6f9ef90f-b113-562b-a9f1-13dc986a7de9",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Calcite",
+      "Gneiss",
+      "Obsidian",
+      "Goethite"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Mineral Properties"
+    ],
+    "difficulty": 0.64,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "374c1c05-c3f8-5fa6-8afc-65dbfec11db3",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Goethite"
+    ],
+    "subtopics": [
+      "Mineral Properties"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "05b13db2-df5e-5d36-b651-1451dc08daba",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Graphite",
+      "Gold",
+      "Gabbro",
+      "Gypsum"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Mineral Properties"
+    ],
+    "difficulty": 0.62,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "6ed16eee-3390-5bf2-8646-70785a6bb934",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Gold"
+    ],
+    "subtopics": [
+      "Mineral Properties"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "46457b9c-b3fb-531c-98fc-1ba375e3c073",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Quartzite",
+      "Dolomite",
+      "Granite",
+      "Gabbro"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Igneous"
+    ],
+    "difficulty": 0.66,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "f6c4e6e6-14da-55ce-b9b4-38a7a0efea97",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Granite"
+    ],
+    "subtopics": [
+      "Igneous"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "61b57127-2b53-5439-abac-0786c05b6652",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Quartz",
+      "Limestone",
+      "Basalt",
+      "Graphite"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Metamorphic"
+    ],
+    "difficulty": 0.71,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "5bef6675-e3a8-5cd2-9c6c-ae8302276be1",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Graphite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Metamorphic"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "4fcd57ad-ad09-5fab-b761-772b7bc8d789",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Schist",
+      "Pyrite",
+      "Greywacke",
+      "Gabbro"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Sedimentary"
+    ],
+    "difficulty": 0.68,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "e7a9141f-64a8-540e-b1d8-78ceb2462c12",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Greywacke"
+    ],
+    "subtopics": [
+      "Sedimentary"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "e66cb61a-d6e4-5c58-9994-82d6cabae5ec",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Pyrite",
+      "Dolomite",
+      "Grossular",
+      "Amphibolite"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.88,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "7431108c-634e-5fd1-8a13-675dd26dad8c",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Grossular"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "1553534e-63ea-52bb-ae31-12daebeea25b",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Shale",
+      "Quartz",
+      "Gabbro",
+      "Halite"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Sedimentary"
+    ],
+    "difficulty": 0.66,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "d8d3e4b5-0010-570d-8e67-ac5f6ac5565c",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Halite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Sedimentary"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "7362ed45-ab36-5466-954a-a9afaf85d16e",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Pyrite",
+      "Hematite",
+      "Gabbro",
+      "Quartzite"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Mineral Properties"
+    ],
+    "difficulty": 0.4,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "c4bee001-5fbe-5718-b462-3c8e8e748225",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Hematite"
+    ],
+    "subtopics": [
+      "Mineral Properties"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "aff55e3c-54ac-5007-96ee-54a790fb6805",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Calcite",
+      "Hornblende",
+      "Shale",
+      "Gabbro"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Igneous"
+    ],
+    "difficulty": 0.22,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "75249b53-3876-5ebe-b3f6-81f8017c5d99",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Hornblende"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Igneous"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "32fd1c76-0d0b-5b78-837c-b9d780a12957",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Shale",
+      "Jasper",
+      "Orthoclase",
+      "Gabbro"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Mineral Properties"
+    ],
+    "difficulty": 0.61,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "81993059-2520-5927-896a-6abdcf23210d",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Jasper"
+    ],
+    "subtopics": [
+      "Mineral Properties"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "54107a75-96d7-5d9b-9a21-f37db805ba50",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Gypsum",
+      "Amphibolite",
+      "Kaolinite",
+      "Gabbro"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Sedimentary"
+    ],
+    "difficulty": 0.31,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "694eff9b-52c4-5fca-9316-d29409263113",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Kaolinite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Sedimentary"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "3f29be93-6f01-59e7-aae9-3d25b4e91b34",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Kyanite",
+      "Selenite",
+      "Gabbro",
+      "Andesite"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Metamorphic"
+    ],
+    "difficulty": 0.63,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "0263b5c8-d243-539e-bf8d-c85d463ac42a",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Kyanite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Metamorphic"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "c14052f2-ff2a-562e-9d9a-80fe073853db",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Basalt",
+      "Labradorite",
+      "Quartzite",
+      "Pyrite"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Igneous"
+    ],
+    "difficulty": 0.67,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "0cfd552c-e3ad-5c5c-9b54-8fef576d92ce",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Labradorite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Igneous"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "026279b3-68c6-5284-aaa9-77e46c776bc3",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Gabbro",
+      "Selenite",
+      "Rhyolite",
+      "Lepidolite"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.49,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "cfeb7f2a-f85a-52f3-9549-07a50989b557",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Lepidolite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "83a7e9fa-c940-5c48-81a0-dbfe9be8a776",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Lignite",
+      "Gabbro",
+      "Halite",
+      "Quartzite"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Sedimentary",
+      "Mineral Properties"
+    ],
+    "difficulty": 0.47,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "6d0bdd4d-fd4d-553e-8bc6-790f8588783e",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Lignite"
+    ],
+    "subtopics": [
+      "Sedimentary",
+      "Mineral Properties"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "65a44028-528d-5ca8-b8b3-3ae3fa468c00",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Gneiss",
+      "Obsidian",
+      "Limonite",
+      "Gypsum"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Sedimentary"
+    ],
+    "difficulty": 0.38,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "12fb3a81-e738-549d-89f5-e51558c4d26d",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Limonite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Sedimentary"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "e731ded2-6f43-5366-9b33-9bd574f4b919",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Quartz",
+      "Gabbro",
+      "Magnesite",
+      "Shale"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.53,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "068d6932-9446-5ce1-83be-cc9c927722e9",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Magnesite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "6b2ca49b-7b7e-5d2c-bad4-d0ec5138b44d",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Andesite",
+      "Basalt",
+      "Gypsum",
+      "Magnetite"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Igneous"
+    ],
+    "difficulty": 0.48,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "c2fe496d-2d01-5303-807c-c96b0d438a82",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Magnetite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Igneous"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "26b98b1e-531a-5c16-9f0c-ab9865fedc22",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Malachite",
+      "Pyrite",
+      "Limestone",
+      "Obsidian"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.51,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "77d38809-a734-5d97-bd9f-21b2681399ae",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Malachite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "6be4824e-a432-5ea3-ab5c-53a03707e81c",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Gabbro",
+      "Marble",
+      "Quartzite",
+      "Gypsum"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Metamorphic"
+    ],
+    "difficulty": 0.23,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "9bd75a89-8fe0-54b8-a44b-dda6b12f4b69",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Marble"
+    ],
+    "subtopics": [
+      "Metamorphic"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "337aac62-c2b8-54b7-85d3-37a6cbf73e94",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Mica schist",
+      "Obsidian",
+      "Pyrite",
+      "Amphibolite"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Metamorphic",
+      "Mineral Properties"
+    ],
+    "difficulty": 0.73,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "c1d7a39a-b468-5882-a627-5e0f8f8c7f63",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Mica Schist"
+    ],
+    "subtopics": [
+      "Metamorphic",
+      "Mineral Properties"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "6045a550-f499-5cfd-bc2a-6a60b239cc6b",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Basalt",
+      "Gabbro",
+      "Milky quartz",
+      "Calcite"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.1,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "645ddf41-42c7-5f80-bd21-5d28fd20ace4",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Milky Quartz"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "7f50003c-053c-55a5-b84f-2c99d115c088",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Gypsum",
+      "Muscovite",
+      "Shale",
+      "Gabbro"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.46,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "0e764e1b-354b-526f-827a-2746a5f1c488",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Muscovite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "1101d9cc-c1c1-5d9a-a9aa-28f473052951",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Obsidian",
+      "Shale",
+      "Halite",
+      "Amphibolite"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Igneous"
+    ],
+    "difficulty": 0.53,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "14a9e9cc-2f2b-5902-a2b1-001baa7db848",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Obsidian"
+    ],
+    "subtopics": [
+      "Igneous"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "d1e7738d-e295-56eb-9a2d-d79ee58a6904",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Olivine",
+      "Pyrite",
+      "Shale",
+      "Gabbro"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Igneous"
+    ],
+    "difficulty": 0.53,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "ae45c02b-9067-5100-8122-3b330f367c4a",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Olivine"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Igneous"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "c2a992e4-7f85-59b3-9a87-4241cb315dc2",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Pyrite",
+      "Obsidian",
+      "Gneiss",
+      "Oolitic limestone"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Sedimentary"
+    ],
+    "difficulty": 0.46,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "0cfbca87-3e9e-5042-af58-a7ac61bd0cbb",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Oolitic Limestone"
+    ],
+    "subtopics": [
+      "Sedimentary"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "c392ed50-73bf-5c1c-9b50-2136488f4614",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Flint",
+      "Gabbro",
+      "Opal",
+      "Pyrite"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Mineral Properties"
+    ],
+    "difficulty": 0.23,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "8867dd6f-b823-5cd1-919e-90045cade55d",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Opal"
+    ],
+    "subtopics": [
+      "Mineral Properties"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "0d63d4ef-9cdf-50ff-97c1-8d24058124f5",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Bituminous Coal",
+      "Selenite",
+      "Gabbro",
+      "Orthoclase"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.63,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "5c595d11-a698-56a5-9414-1ac1d61e070d",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Orthoclase"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "977da989-d2ae-5ec7-942e-bcd16d3517a9",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Shale",
+      "Quartzite",
+      "Pegmatite",
+      "Pyroxene"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Igneous",
+      "Mineral Properties"
+    ],
+    "difficulty": 0.56,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "5e1adfc3-b1da-54b4-bfaf-e79f8791f982",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Pegmatite"
+    ],
+    "subtopics": [
+      "Igneous",
+      "Mineral Properties"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "2011b3fa-62a1-5a5b-8fa3-be6f29d92c6a",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Calcite",
+      "Peridotite",
+      "Gabbro",
+      "Shale"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Igneous"
+    ],
+    "difficulty": 0.33,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "fd72d981-21f2-5c15-aa01-b4d35c42f842",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Peridotite"
+    ],
+    "subtopics": [
+      "Igneous"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "c8aed553-9330-5e94-858b-c3a59261dc19",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Phyllite",
+      "Limestone",
+      "Quartzite",
+      "Gabbro"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Metamorphic",
+      "Mineral Properties"
+    ],
+    "difficulty": 0.71,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "2a1bb3eb-4ac1-5b93-889f-94a946369200",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Phyllite"
+    ],
+    "subtopics": [
+      "Metamorphic",
+      "Mineral Properties"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "bf2bd17d-cd2a-508f-b5a6-584124dc2349",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Quartzite",
+      "Gabbro",
+      "Prehnite",
+      "Halite"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.43,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "dfb3dcef-1bee-5ba4-ae41-902534046af0",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Prehnite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "223e1a45-8c4a-5d19-a393-96e4bc18d08f",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Quartzite",
+      "Pumice",
+      "Gabbro",
+      "Shale"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Igneous",
+      "Mineral Properties"
+    ],
+    "difficulty": 0.47,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "8d392ecc-0d03-5dd0-b12b-0074b77e6ea0",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Pumice"
+    ],
+    "subtopics": [
+      "Igneous",
+      "Mineral Properties"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "e0fd3ea0-f3c8-5286-98aa-7a1806511523",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Pyrite",
+      "Obsidian",
+      "Limestone",
+      "Gabbro"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.28,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "fe8969ed-9922-590d-a81b-90f6693980cc",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Pyrite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "3cee4db1-7287-5397-85a8-68778f228f42",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Limestone",
+      "Pyrolusite",
+      "Kyanite",
+      "Gabbro"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Mineral Properties"
+    ],
+    "difficulty": 0.53,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "6fe7cdc8-6a9c-56e4-837a-f8fed7f1c3bf",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Pyrolusite"
+    ],
+    "subtopics": [
+      "Mineral Properties"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "c8974e5c-a266-5856-915f-43c8f339b958",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Kyanite",
+      "Shale",
+      "Gabbro",
+      "Pyromorphite"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.66,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "95306ed7-41db-50dd-90f5-28d402a1ce3a",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Pyromorphite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "6e7306a3-4d90-5fca-ae46-81962a30ba0b",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Pyrite",
+      "Shale",
+      "Gabbro",
+      "Quartz sandstone"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Sedimentary"
+    ],
+    "difficulty": 0.3,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "527721c8-9071-59e2-97d2-71c620a3bffc",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Quartz Sandstone"
+    ],
+    "subtopics": [
+      "Sedimentary"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "9e033b57-146b-5530-ae88-94cf57cc7d92",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Calcite",
+      "Gabbro",
+      "Quartzite",
+      "Shale"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Metamorphic",
+      "Mineral Properties"
+    ],
+    "difficulty": 0.75,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "35183a4b-4eb0-5e77-9ff2-66a093650231",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Quartzite"
+    ],
+    "subtopics": [
+      "Metamorphic",
+      "Mineral Properties"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "f55cdba6-3175-575d-b447-82bc465bbaf4",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Amphibole",
+      "Flint",
+      "Gabbro",
+      "Rhodochrosite"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.7,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "419ddadf-fa6e-54a1-9d48-775c0a80e830",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Rhodochrosite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "5b214d87-eaec-57a1-aa56-bcccdad6b4d9",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Amphibolite",
+      "Rhodonite",
+      "Gypsum",
+      "Basalt"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.7,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "3bde6b63-a8c9-5b54-9f3b-a5a82fc63418",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Rhodonite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "ba14b8aa-75a6-50c0-b09a-b0eb05d1aa66",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Gabbro",
+      "Shale",
+      "Rhyolite",
+      "Quartzite"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Igneous"
+    ],
+    "difficulty": 0.42,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "993daeda-83f1-5ad3-9ea8-f3a25197308e",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Rhyolite"
+    ],
+    "subtopics": [
+      "Igneous"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "90d585be-7347-5575-bef2-ac5117e2d976",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Basalt",
+      "Rock crystal",
+      "Garnet",
+      "Shale"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.64,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "2b9af741-7dbd-5adf-85e7-4da118be21f0",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Rock Crystal"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "87bab4ec-8794-5eee-9266-e6c009f65767",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Rose quartz",
+      "Calcite",
+      "Basalt",
+      "Shale"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.74,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "eebe9b85-7673-59bc-815a-8a411da79288",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Rose Quartz"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "29877bcc-ebc9-5f2c-a28e-5927c3cc0319",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Shale",
+      "Gabbro",
+      "Gypsum",
+      "Rutile"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.3,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "669d9260-5356-5d06-9d3b-7df28f80c3fe",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Rutile"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "d7802d4c-2991-5fa6-b385-bef412ce1c0b",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Pyrite",
+      "Conglomerate",
+      "Amphibolite",
+      "Satin spar"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.49,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "277f9ba8-ea62-5cd9-b364-aa21e9668d69",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Satin Spar"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "d7aa4071-9fa6-5d15-a789-bfe1b5d86b2e",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Bituminous Coal",
+      "Scoria",
+      "Gypsum",
+      "Amphibolite"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Igneous"
+    ],
+    "difficulty": 0.54,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "0fb10b2c-0631-5246-be7d-4c5f494dbade",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Scoria"
+    ],
+    "subtopics": [
+      "Igneous"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "32ef5d22-030a-545b-b8a6-0d2b84efe2fa",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Basalt",
+      "Pyrite",
+      "Selenite",
+      "Gneiss"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.44,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "2e1731d8-3c96-5325-804a-7d112acfefb8",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Selenite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "cd31532c-6ab7-5a94-b0c1-3a658a9f6394",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Gabbro",
+      "Pyroxenite",
+      "Serpentinite",
+      "Quartzite"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Metamorphic",
+      "Mineral Properties"
+    ],
+    "difficulty": 0.51,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "3b28c710-5d8b-5712-8276-3755c834a9fe",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Serpentinite"
+    ],
+    "subtopics": [
+      "Metamorphic",
+      "Mineral Properties"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "4c1063f9-1ebb-56fa-82fd-ad4c5e45f6c5",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Pyrite",
+      "Gabbro",
+      "Quartzite",
+      "Shale"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Sedimentary"
+    ],
+    "difficulty": 0.53,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "580d6563-fe1f-551e-8af9-544cbf60a56e",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Shale"
+    ],
+    "subtopics": [
+      "Sedimentary"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "4ba46aae-0ded-5992-a306-e255040fe06e",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Gypsum",
+      "Siderite",
+      "Gabbro",
+      "Schist"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Sedimentary"
+    ],
+    "difficulty": 0.39,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "d2eaed2f-c6f8-520c-a470-756693596ccc",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Siderite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Sedimentary"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "e0c57710-cfb5-57b4-838f-91bce31457de",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Silver",
+      "Gabbro",
+      "Shale",
+      "Calcite"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Mineral Properties"
+    ],
+    "difficulty": 0.38,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "6ae94523-68e5-54be-a693-6232441a1c7c",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Silver"
+    ],
+    "subtopics": [
+      "Mineral Properties"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "079bd4dc-dc85-550d-916e-c84b4036e6da",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Pyrite",
+      "Quartzite",
+      "Slate",
+      "Gabbro"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Metamorphic"
+    ],
+    "difficulty": 0.48,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "013eb391-c3f5-53aa-86e8-653b2a4d8a97",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Slate"
+    ],
+    "subtopics": [
+      "Metamorphic"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "7fba56e0-75be-51df-ac49-1d07452c1bcb",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Smoky quartz",
+      "Gabbro",
+      "Limestone",
+      "Pyrite"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.37,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "63e14ab4-a08d-5c2e-92b3-91c15ee3921b",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Smoky Quartz"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "21a95d7a-8391-529d-9361-073be7748396",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Amphibolite",
+      "Talc schist (Soapstone)",
+      "Flint",
+      "Orthoclase"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Metamorphic",
+      "Mineral Properties"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "bab3ffe6-7f2e-587c-86ee-84de119b3eac",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Talc Schist",
+      "Soapstone"
+    ],
+    "subtopics": [
+      "Metamorphic",
+      "Mineral Properties"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "d5bead18-88cb-5ec9-a248-0d118ceffa19",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Calcite",
+      "Sodalite",
+      "Shale",
+      "Gabbro"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.77,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "db0e2316-1c84-5ab8-9b60-5b2aad64300c",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Sodalite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "7cde9b73-dd43-57c8-9b0e-e0c113e72158",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Sphalerite",
+      "Pyroxene",
+      "Limestone",
+      "Gabbro"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.32,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "d94fff68-01ca-501d-843c-c57ec15fa3b1",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Sphalerite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "988429ba-12b4-5be1-93ac-40affe0efb27",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Gabbro",
+      "Spodumene",
+      "Selenite",
+      "Amphibolite"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.28,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "19e476f8-5b05-59f2-8a95-b98ab0b47ec9",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Spodumene"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "08308a4a-f419-5d3e-abfc-7cc9fe45a919",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Andesite",
+      "Selenite",
+      "Gabbro",
+      "Staurolite"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Metamorphic",
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.8,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "42059655-9ab4-528b-84c6-4bef72d1954b",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Staurolite"
+    ],
+    "subtopics": [
+      "Metamorphic",
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "79bdf12b-fab5-5126-ba1e-36e83db78a22",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Pyrite",
+      "Shale",
+      "Amphibole",
+      "Stibnite"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "9a3c4993-7529-51ff-a0ff-a9fef25d2e7e",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Stibnite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "16ad6e7d-1a8e-5805-bd39-b70d2966bb5f",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Schist",
+      "Gypsum",
+      "Stilbite",
+      "Gabbro"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.58,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "93de4801-a4c2-5276-a3cf-af2d046b3fa6",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Stilbite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "68371650-3372-5f30-ad0b-d6d05ee29a82",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Shale",
+      "Gabbro",
+      "Sulfur",
+      "Quartz"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.25,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "b8a8d98b-edc3-5469-b02f-66a48ac6e96f",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Sulfur"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "f11d6d83-92c8-58a4-8d54-d627ff6ea1c0",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Lignite",
+      "Quartzite",
+      "Gabbro",
+      "Syenite"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Igneous"
+    ],
+    "difficulty": 0.72,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "78d5a53d-6e96-555d-bc85-6cd1b53c9c75",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Syenite"
+    ],
+    "subtopics": [
+      "Igneous"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "f06c36f5-2ef5-5306-a926-7839014ca028",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Gneiss",
+      "Talc",
+      "Pumice",
+      "Olivine"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Metamorphic"
+    ],
+    "difficulty": 0.4,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "c9f0247a-2073-5bdd-82b8-86fd0c7954ef",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Talc"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Metamorphic"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "99e6fe90-1476-57f5-a0b7-4ccf4c931bee",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Flint",
+      "Azurite",
+      "Gabbro",
+      "Tiger's Eye"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Metamorphic"
+    ],
+    "difficulty": 0.67,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "3b8d08af-0625-5ddb-a611-9cea5a5e28e9",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Tiger's Eye"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Metamorphic"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "2fabbd19-2599-5a59-a4c1-31e423d621a1",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Topaz",
+      "Flint",
+      "Gypsum",
+      "Gabbro"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.29,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "05b920d7-2029-52dc-aaa3-a201d0b19da1",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Topaz"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "2c1c76cb-5e04-5d6b-9db4-2139522070b1",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Shale",
+      "Pyrite",
+      "Gabbro",
+      "Tourmaline"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.28,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "9cdf125a-1a46-572d-b3bf-c1a330843122",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Tourmaline"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "14ab69e3-03dd-5244-b733-d5086f4876c0",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Travertine",
+      "Gabbro",
+      "Shale",
+      "Pyrite"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Sedimentary"
+    ],
+    "difficulty": 0.55,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "d66c28ef-fee5-59d5-9af0-5ae49c6c8ca5",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Travertine"
+    ],
+    "subtopics": [
+      "Sedimentary"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "7c024137-81f3-55c5-9d44-40673b6ede89",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Shale",
+      "Tremolite",
+      "Gabbro",
+      "Pyrite"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Metamorphic"
+    ],
+    "difficulty": 0.38,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "6e184317-c00e-5042-adc3-199b0632a09a",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Tremolite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Metamorphic"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "5af1708b-a3ad-5746-91ae-6bea9c94f10f",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Quartzite",
+      "Gypsum",
+      "Tuff",
+      "Gabbro"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Igneous"
+    ],
+    "difficulty": 0.74,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "666e85f7-b0ad-5ce8-86dd-d0bab657c613",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Tuff"
+    ],
+    "subtopics": [
+      "Igneous"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "rock"
+  },
+  {
+    "id": "95024a54-f874-5ee8-a1d9-76f056d2ea54",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Shale",
+      "Pyrite",
+      "Gabbro",
+      "Turquoise"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Mineral Properties"
+    ],
+    "difficulty": 0.49,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "cac9d44f-be9a-5e61-a81d-46fab31023eb",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Turquoise"
+    ],
+    "subtopics": [
+      "Mineral Properties"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "423b45f8-dddf-5f28-9376-5a8f61766447",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Gabbro",
+      "Amphibolite",
+      "Ulexite",
+      "Obsidian"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Sedimentary"
+    ],
+    "difficulty": 0.26,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "9fc863f8-2c53-510a-814c-16477cf924ce",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Ulexite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Sedimentary"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "80b67bf2-7fda-5478-aaa4-a0fbc25c269a",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Lapis lazuli",
+      "Malachite",
+      "Vanadinite",
+      "Gabbro"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.33,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "2c6bdff3-c7a5-5dc2-8435-aba77c5b773f",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Vanadinite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "26801321-571f-5614-af81-68ac3db8b4fe",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Pyrite",
+      "Gabbro",
+      "Obsidian",
+      "Willemite"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.48,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "570db422-e61d-5d18-8786-6463235603ef",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Willemite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "b9ddae58-475c-5ee8-a082-d3c67f88f30e",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Basalt",
+      "Quartzite",
+      "Wollastonite",
+      "Orthoclase"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Metamorphic"
+    ],
+    "difficulty": 0.58,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "fb753e78-8d17-5f7d-9a48-1624e6d3fe77",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Wollastonite"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Metamorphic"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "5ddb0854-4f84-55a1-adc5-0a227bfe712f",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Gabbro",
+      "Zincite",
+      "Quartzite",
+      "Lapis lazuli"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Mineral Properties"
+    ],
+    "difficulty": 0.24,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "866d2dee-8178-57a8-823d-3b5a9aec7700",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Zincite"
+    ],
+    "subtopics": [
+      "Mineral Properties"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "4a9d6bb2-8550-5bc3-a826-41adb8613bdd",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Gabbro",
+      "Zircon",
+      "Pyrite",
+      "Shale"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.64,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  },
+  {
+    "id": "36132a8e-33ee-5faf-b899-5b01c9b53c2c",
+    "question": "What is the common name of this rock/mineral?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Zircon"
+    ],
+    "subtopics": [
+      "Mineral Properties",
+      "Crystal Systems"
+    ],
+    "difficulty": 0.6,
+    "event": "Rocks and Minerals",
+    "images": [],
+    "pure_id": true,
+    "rm_type": "mineral"
+  }
+]

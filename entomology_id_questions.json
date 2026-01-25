@@ -1,0 +1,4954 @@
+[
+  {
+    "id": "73ddc82c-40bd-52cc-a0a7-ba1a1f68fed1",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Curculionidae",
+      "Protura",
+      "Ephemeroptera",
+      "Formicidae"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.33,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "aaa36e35-0dad-5208-8d07-4487bd0a4dd8",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Protura"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "c5d5b894-9b52-5a19-9835-15b610927a27",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [
+      "Gryllidae",
+      "Culicidae",
+      "Pieridae",
+      "Collembola"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.7,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "6c6dc55a-fe88-56ed-addc-3352ee58244a",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [],
+    "answers": [
+      "Collembola"
+    ],
+    "subtopics": [
+      "Classification",
+      "Ecology"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "c9142720-1a4e-5206-a32b-8b0c0ca4442c",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Diplura",
+      "Gryllidae",
+      "Curculionidae",
+      "Lepidoptera"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.46,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "4851a3a0-3934-545e-9cf1-48b56bf3a621",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Diplura"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "23d69e7a-4b0c-5c23-9609-b7071b5ce839",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Archaeognatha",
+      "Tipulidae",
+      "Arctiidae",
+      "Scarabaeidae"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.2,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "936ca211-9d98-597d-92cc-24787b382865",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Archaeognatha"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "8973260f-0fae-565b-b986-80b5741e87b4",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [
+      "Pieridae",
+      "Scarabaeidae",
+      "Zygentoma",
+      "Gryllidae"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.53,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "31ec2824-9584-547d-a1e2-8bfa3b9b9b64",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [],
+    "answers": [
+      "Zygentoma"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "bd824f55-4ead-5518-9159-d27f4e4faf15",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Gryllidae",
+      "Coleoptera",
+      "Ephemeroptera",
+      "Nymphalidae"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.35,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "719c5244-9ddb-5027-8dd2-7329ec0d3c27",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Ephemeroptera"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "a55e215e-64c6-5e86-be5f-0d6346f7c484",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Aeshnidae",
+      "Tipulidae",
+      "Curculionidae",
+      "Lepidoptera"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.84,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "5e7ea542-e3f7-546e-9365-439b2b9084da",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [],
+    "answers": [
+      "Aeshnidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "1c28e8f0-463e-5fcf-8fe6-9a82e83447dd",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [
+      "Lepidoptera",
+      "Gomphidae",
+      "Syrphidae",
+      "Curculionidae"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.65,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "5a39c9d4-c5a0-58d6-abe4-94ac05c5baea",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [],
+    "answers": [
+      "Gomphidae"
+    ],
+    "subtopics": [
+      "Classification",
+      "Ecology"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "5c139493-ef34-5dbe-91de-84bfcb86e3cd",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Formicidae",
+      "Scarabaeidae",
+      "Lepidoptera",
+      "Libellulidae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.32,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "ec59845d-a8ba-5ac6-8bd2-7b8ab0e8dce9",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Libellulidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "f4729d22-33b4-5f04-ab08-2bb3561ef608",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Lepidoptera",
+      "Lestidae",
+      "Curculionidae",
+      "Syrphidae"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.61,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "0d981e6e-9ce1-5464-97d8-0afe9e763bc5",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Lestidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "87e3973e-72af-5721-9510-236d2ad83c68",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Gryllidae",
+      "Noctuidae",
+      "Coenagrionidae",
+      "Curculionidae"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.46,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "0c630428-249a-5263-aaae-e37ce4935a33",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Coenagrionidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "dfb3ecdb-da58-5b3d-a19a-aa105e6f0ca8",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Termitidae",
+      "Curculionidae",
+      "Papilionidae",
+      "Mantodea"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.44,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "b3698ffa-f97d-5678-a693-ed7bbf429584",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Termitidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "75593bd0-c135-5fef-a3c3-272e3f16afae",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Tipulidae",
+      "Lepidoptera",
+      "Blattidae",
+      "Curculionidae"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.42,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "29cdb9a5-8e59-570f-ab59-933cb13b414c",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Blattidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "27bfa242-71f9-5359-be01-3958f3388de7",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [
+      "Cryptocercidae",
+      "Culicidae",
+      "Curculionidae",
+      "Lepidoptera"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.3,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "98ad128f-7d5a-54e5-9b3d-eca95ef3528d",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [],
+    "answers": [
+      "Cryptocercidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "2d42a611-83f7-504a-87ba-de77ed830793",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Lepidoptera",
+      "Mantodea",
+      "Curculionidae",
+      "Tipulidae"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.56,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "840e6377-c4b2-5550-9c13-d039e909af34",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Mantodea"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "5a1dc66e-d59e-5362-bcc6-aded6f1d4382",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Pieridae",
+      "Gryllacrididae",
+      "Embioptera",
+      "Curculionidae"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.05,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "d237e4f3-b6c7-5960-87b9-929d39b84f89",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Embioptera"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "6b064eb3-9c4b-5b4d-a58c-0ee5defda1d0",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [
+      "Lepidoptera",
+      "Syrphidae",
+      "Dermaptera",
+      "Curculionidae"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.75,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "6dbeb06b-885e-546d-bc01-810d7c28ddcb",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [],
+    "answers": [
+      "Dermaptera"
+    ],
+    "subtopics": [
+      "Classification",
+      "Ecology"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "a60848f4-1c31-5319-b806-88832fd5ec2e",
+    "question": "What is the order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Coleoptera",
+      "Plecoptera",
+      "Lepidoptera",
+      "Hymenoptera"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.73,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "9fe2d965-f50d-58d2-bac4-92f4291f1f2d",
+    "question": "What is the order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Plecoptera"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "569e99aa-aa1c-55cd-9c03-da65c56fcfc9",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Syrphidae",
+      "Lepidoptera",
+      "Curculionidae",
+      "Tetrigidae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.58,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "ecf3ff01-68b9-517e-ae08-f724068b8147",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Tetrigidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "1dfc77ac-185b-5e66-a715-93b3e1221e78",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [
+      "Lepidoptera",
+      "Diptera",
+      "Curculionidae",
+      "Acrididae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.54,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "fec12098-a329-5e65-b0f1-d2b9df2a8ef3",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [],
+    "answers": [
+      "Acrididae"
+    ],
+    "subtopics": [
+      "Classification",
+      "Ecology"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "90838aed-e803-5865-b163-5a7a3e64979c",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [
+      "Tettigoniidae",
+      "Culicidae",
+      "Lepidoptera",
+      "Curculionidae"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.37,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "ed994be4-835e-5699-8518-4f53170d5a75",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [],
+    "answers": [
+      "Tettigoniidae"
+    ],
+    "subtopics": [
+      "Classification",
+      "Ecology"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "57be3a47-49d1-5536-a39c-30aa445a5602",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Formicidae",
+      "Rhaphidophoridae",
+      "Lepidoptera",
+      "Curculionidae"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.26,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "0081f9e4-9db8-577a-b335-5cdc03c4ee5c",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Rhaphidophoridae"
+    ],
+    "subtopics": [
+      "Classification",
+      "Ecology"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "9c59aaae-b435-531b-82cf-83a38c14e1ae",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Lepidoptera",
+      "Gryllidae",
+      "Coleoptera",
+      "Hymenoptera"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.65,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "0674e537-e1b9-5b0a-8058-38c037ef19b6",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Gryllidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "d34a5232-e632-599c-974a-0508c12de3b5",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Curculionidae",
+      "Syrphidae",
+      "Gryllotalpidae",
+      "Lepidoptera"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.57,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "a37a7e22-8169-5627-9378-2b49982d7235",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Gryllotalpidae"
+    ],
+    "subtopics": [
+      "Classification",
+      "Ecology"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "3ec5f634-03a3-534d-b0d9-a855a0c45c8e",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Scarabaeidae",
+      "Culicidae",
+      "Lepidoptera",
+      "Diapheromeridae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.55,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "47418888-4e19-5add-a5ad-4edd42c1241b",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Diapheromeridae"
+    ],
+    "subtopics": [
+      "Classification",
+      "Ecology"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "edd61dbb-d73a-5a33-8dc1-e00129016f82",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Psocodea",
+      "Scarabaeidae",
+      "Pieridae",
+      "Gryllidae"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.63,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "87942671-cf2b-5e8b-aa51-74068813a5e2",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Psocodea"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "f6e9e37a-a39a-5205-a1b6-c785e845c0c2",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Odonata",
+      "Scarabaeidae",
+      "Corixidae",
+      "Gelechiidae"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.51,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "378286f8-4fed-5d66-8d0f-329c71ba91f4",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Corixidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "33ce0932-f681-5695-9866-3d81f4ae8b03",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Gelechiidae",
+      "Odonata",
+      "Curculionidae",
+      "Notonectidae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.53,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "e258ce66-8132-55aa-8e5c-d92c2d3e9fb4",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [],
+    "answers": [
+      "Notonectidae"
+    ],
+    "subtopics": [
+      "Classification",
+      "Ecology"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "696e306d-7be0-5f8c-94af-70acb892fe33",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Papilionidae",
+      "Mantodea",
+      "Belostomatidae",
+      "Curculionidae"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.25,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "6edaeb24-8b96-5397-ac0d-8c16cd9b00d0",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Belostomatidae"
+    ],
+    "subtopics": [
+      "Classification",
+      "Ecology"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "b1e8c23f-f802-5e18-a9ac-0d6c8afa8833",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Lepidoptera",
+      "Nepidae",
+      "Gerridae",
+      "Curculionidae"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.61,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "624bed7d-da17-5947-aac1-2fa5f0bd3d4e",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [],
+    "answers": [
+      "Nepidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "2be91a43-d4b5-55ce-8bc1-88c486b30f4f",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Scarabaeidae",
+      "Lepidoptera",
+      "Culicidae",
+      "Gelastocoridae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.62,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "e4084ab3-5682-502c-91d1-d32cba31b05d",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Gelastocoridae"
+    ],
+    "subtopics": [
+      "Classification",
+      "Ecology"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "b009e5ca-109b-559a-95df-33e2ba8ece31",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Lepidoptera",
+      "Tipulidae",
+      "Scarabaeidae",
+      "Gerridae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.18,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "afe48e1b-6fdd-5d82-a433-ae3819db5403",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Gerridae"
+    ],
+    "subtopics": [
+      "Classification",
+      "Ecology"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "5896453c-3c7d-5690-8601-c00f4427a77a",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Lepidoptera",
+      "Cimicidae",
+      "Scarabaeidae",
+      "Hymenoptera"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.26,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "1afe68e2-163c-53f5-837c-91ab6cccccb8",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Cimicidae"
+    ],
+    "subtopics": [
+      "Classification",
+      "Ecology"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "44c00c33-2b61-5816-91b0-741d67a24177",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [
+      "Gelechiidae",
+      "Odonata",
+      "Miridae",
+      "Curculionidae"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.26,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "cc88f338-1963-5b76-9284-6260fd7ba99a",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [],
+    "answers": [
+      "Miridae"
+    ],
+    "subtopics": [
+      "Classification",
+      "Ecology"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "320bde00-d165-5f3b-a0e7-2881a5119a8c",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Curculionidae",
+      "Lepidoptera",
+      "Reduviidae",
+      "Apidae"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.47,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "5dc26588-2492-5207-9580-6d84c94bae6d",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Reduviidae"
+    ],
+    "subtopics": [
+      "Classification",
+      "Ecology"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "1971ceff-ec3c-5c32-9c61-9d05c4d0b5fb",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Syrphidae",
+      "Lepidoptera",
+      "Scutelleridae",
+      "Curculionidae"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.48,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "e766db5b-436a-5eb9-8616-f3413c2bab87",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Scutelleridae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "f1a7d5c8-be8e-5961-84b0-658fce704820",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Curculionidae",
+      "Tingidae",
+      "Syrphidae",
+      "Lepidoptera"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.72,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "8a031419-4bec-5daa-bca8-87a447535143",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Tingidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "b3f4ad2a-e646-5bde-82ac-d1cbdeddded0",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Odonata",
+      "Curculionidae",
+      "Lygaeidae",
+      "Formicidae"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.79,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "bf2a21af-587c-5c8a-b5a5-0006fd390aab",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Lygaeidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "0a04109b-8c9c-524f-9ce1-e466479a88a1",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Gryllidae",
+      "Coreidae",
+      "Curculionidae",
+      "Lepidoptera"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.39,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "3ecbb2f3-69ed-55ad-8755-932af4c922d6",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Coreidae"
+    ],
+    "subtopics": [
+      "Classification",
+      "Ecology"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "6c59e7db-7df1-55d3-aae4-2299e1b6de14",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Pentatomidae",
+      "Papilionidae",
+      "Culicidae",
+      "Gryllidae"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.64,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "0e017a77-d321-5b21-82fc-b4842ba08e3b",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Pentatomidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "2339d817-7b21-5c70-ad2d-2e2d32d955e2",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Scarabaeidae",
+      "Tipulidae",
+      "Lepidoptera",
+      "Cicadidae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.52,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "ea9f1d9b-9a73-52c6-a51a-4f9c38194099",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Cicadidae"
+    ],
+    "subtopics": [
+      "Classification",
+      "Ecology"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "f5ecae24-b770-5ec3-b94e-bda6d1bd776f",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Pieridae",
+      "Gryllidae",
+      "Coleoptera",
+      "Membracidae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.85,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "386e3b78-ad53-5444-977d-c2f8775c451c",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Membracidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "944fc691-844d-5831-9321-024779ffe4a3",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Tipulidae",
+      "Cercopidae",
+      "Lepidoptera",
+      "Scarabaeidae"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.52,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "e13a1f40-a0dd-57a9-9037-fcc7374ac4fb",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Cercopidae"
+    ],
+    "subtopics": [
+      "Classification",
+      "Ecology"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "fc163423-f7a2-5b18-8cfb-ea755e995f22",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [
+      "Pieridae",
+      "Cicadellidae",
+      "Tipulidae",
+      "Scarabaeidae"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.52,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "d931a58c-341f-5e17-999a-20182208e269",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [],
+    "answers": [
+      "Cicadellidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "c40d2f42-880b-5004-a512-00e8ca8af90f",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Gryllidae",
+      "Scarabaeidae",
+      "Fulgoroidea",
+      "Pieridae"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.31,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "2a3c9ecb-0557-57d8-a793-2c6032952302",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Fulgoridae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "6dc5e3d2-f78b-57df-abfd-56ed66786d48",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Curculionidae",
+      "Lepidoptera",
+      "Aphididae",
+      "Formicidae"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.65,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "201dba33-4c53-541b-9202-605d8ff4815a",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Aphididae"
+    ],
+    "subtopics": [
+      "Classification",
+      "Ecology"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "84a664ac-68e4-5ad3-ba82-804ff5f0275e",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [
+      "Gryllidae",
+      "Lepidoptera",
+      "Pseudococcidae",
+      "Culicidae"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.42,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "cbc5193e-cfd8-586f-a05c-62c11fad825a",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [],
+    "answers": [
+      "Pseudococcidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "f0e96f85-29e4-532b-8f86-4f29e05b152d",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Coccidae",
+      "Lepidoptera",
+      "Gryllidae",
+      "Curculionidae"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.15,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "9b44d3bb-905f-5002-ae8a-cf929bdc0bd8",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Coccidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "7d2578f9-3577-52ba-bad9-fca7990e2327",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Thysanoptera",
+      "Tipulidae",
+      "Curculionidae",
+      "Pieridae"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.87,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "cf1d4443-3fec-5be8-8d59-9ba4a40f4351",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Thysanoptera"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "fdc47874-2056-5dc4-92d2-3516d9d714b8",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Curculionidae",
+      "Megaloptera",
+      "Pieridae",
+      "Gryllidae"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.52,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "b6ea16e1-219f-587a-a0ed-a9f3d4d34ca0",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Megaloptera"
+    ],
+    "subtopics": [
+      "Classification",
+      "Ecology"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "ed648718-77a7-54f3-a36f-1b537ebd2101",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Lepidoptera",
+      "Scarabaeidae",
+      "Chrysopidae",
+      "Culicidae"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.8,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "2cb50a2c-c0b1-5a50-8bb3-9c75b860cb57",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Chrysopidae"
+    ],
+    "subtopics": [
+      "Classification",
+      "Ecology"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "4f3533c0-834e-53c8-aa8c-80c931290b2a",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Tipulidae",
+      "Papilionidae",
+      "Myrmeleontidae",
+      "Staphylinidae"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.54,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "22aae6b5-46d0-50d7-85b0-2b4ae24a6595",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Myrmeleontidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "d0bb4ad0-94be-551f-bf18-12208013ccca",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Formicidae",
+      "Tipulidae",
+      "Papilionidae",
+      "Cicindelinae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.49,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "2de6c35f-aee8-5264-81ec-42efa0f8b728",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Cicindelinae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "f19d010e-38d9-50d7-91a7-55be08130955",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Odonata",
+      "Pieridae",
+      "Carabidae",
+      "Formicidae"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.53,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "ef5101b6-ed99-533d-953d-088f8c98ac19",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Carabidae"
+    ],
+    "subtopics": [
+      "Classification",
+      "Ecology"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "5b8c284b-000d-5e01-9597-b73decab62e8",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Lepidoptera",
+      "Gryllidae",
+      "Dytiscidae",
+      "Culicidae"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.55,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "0dcb3b66-98f0-5212-a7f3-81d47370e2a0",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Dytiscidae"
+    ],
+    "subtopics": [
+      "Classification",
+      "Ecology"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "b812ec3d-0505-5264-b531-03385505bdd6",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Odonata",
+      "Curculionidae",
+      "Pieridae",
+      "Gyrinidae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.82,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "1a1e3871-9501-5ad4-87a0-769f07cd415b",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Gyrinidae"
+    ],
+    "subtopics": [
+      "Classification",
+      "Ecology"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "cc8c1efe-a22b-533e-abb2-5c284a85164f",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [
+      "Hydrophilidae",
+      "Gryllidae",
+      "Syrphidae",
+      "Lepidoptera"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.52,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "d2799a89-4352-58f4-9550-0180f75b9fe9",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [],
+    "answers": [
+      "Hydrophilidae"
+    ],
+    "subtopics": [
+      "Classification",
+      "Ecology"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "2f2738f9-5aee-5673-848b-faadf20a5fea",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Mantodea",
+      "Psephenidae",
+      "Syrphidae",
+      "Pieridae"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.45,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "fc53cd70-ca90-5a24-9859-a4885087a431",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Psephenidae"
+    ],
+    "subtopics": [
+      "Classification",
+      "Ecology"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "cc61bdc3-d657-56b0-8b9e-5693df265ef4",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Papilionidae",
+      "Elmidae",
+      "Syrphidae",
+      "Mantodea"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.69,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "0d917a5c-37d6-5d86-bc0b-033bcfb98e87",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Elmidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "a7fa51b5-ce11-5151-bf56-028541cdd232",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Odonata",
+      "Syrphidae",
+      "Noctuidae",
+      "Histeridae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 1.0,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "3d8ac375-578e-5723-92a1-4b356f692bd2",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Histeridae"
+    ],
+    "subtopics": [
+      "Classification",
+      "Ecology"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "cc43036f-af02-5bb6-8a7e-0ba530aaaf5a",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Papilionidae",
+      "Odonata",
+      "Formicidae",
+      "Staphylinidae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.52,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "eb5665bf-3ba2-50f2-b9f0-cc02fbf6cec5",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Staphylinidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "3f12f1ff-5ed2-5df3-ba68-c6a96e4a8e7b",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Formicidae",
+      "Silphidae",
+      "Odonata",
+      "Pieridae"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.35,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "0af0f1ef-f2da-5d45-95e3-05e10d99ec87",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Silphidae"
+    ],
+    "subtopics": [
+      "Classification",
+      "Ecology"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "82f050d4-0cae-5fe3-bb29-4dec7e3c1f16",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Papilionidae",
+      "Lucanidae",
+      "Odonata",
+      "Formicidae"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.57,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "46caccef-5f88-547f-8f4e-b1718d0d3060",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Lucanidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "9ab0f0f3-21f5-512a-bdea-0334745b3f59",
+    "question": "What is the family of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Pieridae",
+      "Gryllacrididae",
+      "Curculionidae",
+      "Passalidae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.68,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "d8a0d4cd-6432-5ffd-aef2-8d32313ae478",
+    "question": "What is the family of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Passalidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "efc9dd3b-04a6-57d7-abbc-d44621be2404",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Syrphidae",
+      "Mantodea",
+      "Papilionidae",
+      "Scarabaeidae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.65,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "b45c6aa4-2fb2-580a-9028-7de68005e8ef",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Scarabaeidae"
+    ],
+    "subtopics": [
+      "Classification",
+      "Ecology"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "f81c6851-f73c-509a-aba1-15d6fa45c367",
+    "question": "What is the family of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Syrphidae",
+      "Mantodea",
+      "Pieridae",
+      "Buprestidae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.81,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "16c684b6-7414-556d-9773-ca81d922ac55",
+    "question": "What is the family of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Buprestidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "88067677-4a2d-5e34-a66e-1bcb4eea28dd",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [
+      "Syrphidae",
+      "Lepidoptera",
+      "Mantidae",
+      "Elateridae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.24,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "bda06e25-d1e0-5032-a620-9ed722166f76",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [],
+    "answers": [
+      "Elateridae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "c63dd3b8-71bf-5e5d-82ea-6ca3079a8e10",
+    "question": "What is the family of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Formicidae",
+      "Papilionidae",
+      "Tipulidae",
+      "Lampyridae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.27,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "20718f5a-6505-5946-b734-634dcd8a0ede",
+    "question": "What is the family of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Lampyridae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "1409a410-74ac-5ca3-a45e-e9429cfc23c7",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Cantharidae",
+      "Tipulidae",
+      "Mantodea",
+      "Pieridae"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.68,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "1df01815-7da7-535b-bfb0-583e68216e96",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Cantharidae"
+    ],
+    "subtopics": [
+      "Classification",
+      "Ecology"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "deb2ade0-6d9e-589f-9787-bc98bfd6148b",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Pieridae",
+      "Lycidae",
+      "Mantodea",
+      "Tipulidae"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.4,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "a4d58494-a4f3-5235-aef1-56f3b974c4a5",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Lycidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "ac065dd2-9848-5c34-992f-0c34d348f7a9",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Odonata",
+      "Papilionidae",
+      "Formicidae",
+      "Cleridae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.46,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "4b3da3f2-ef31-53e0-9ae1-b802c18796a8",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Cleridae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "8d16992e-742f-5bb4-9ce0-8071c116dad2",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Coccinellidae",
+      "Odonata",
+      "Formicidae",
+      "Pieridae"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.8,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "ed5b96dc-be79-5547-a758-8bce9191c329",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Coccinellidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "c9f21eca-4138-5376-bb35-688d66f6f9a2",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Syrphidae",
+      "Tenebrionidae",
+      "Papilionidae",
+      "Mantodea"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.24,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "99f554b8-c765-55dd-bf0a-b9f5eabbbf81",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Tenebrionidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "17ca205c-4b02-5777-a17f-d03333904739",
+    "question": "What is the family of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Sphingidae",
+      "Tipulidae",
+      "Formicidae",
+      "Meloidae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.26,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "9c702618-9ca6-53eb-b886-cfc047aa6a40",
+    "question": "What is the family of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Meloidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "4c76e9a3-b088-5be8-8b6f-23c5ec099e24",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Odonata",
+      "Cerambycidae",
+      "Gryllidae",
+      "Noctuidae"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.55,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "77f92c60-2f98-56e1-91d5-9518eadc567b",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Cerambycidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "54187e56-aa02-54b1-8856-47982d67b0d0",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Tipulidae",
+      "Chrysomelidae",
+      "Pieridae",
+      "Formicidae"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.42,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "9482fda6-4c84-5b82-a1b1-07bd4b8567ef",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Chrysomelidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "8b1bd4e8-48f4-5dd7-b17c-78d95844d09e",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [
+      "Formicidae",
+      "Curculionidae",
+      "Noctuidae",
+      "Odonata"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.48,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "4c1ad317-791b-5588-8ace-bad77ffbee50",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [],
+    "answers": [
+      "Curculionidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "b029dcd4-9024-5ac8-808b-82b655868e2d",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Mantodea",
+      "Zopheridae",
+      "Syrphidae",
+      "Pieridae"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.77,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "6d72e7ac-b116-56ea-9428-d9bbbef0027b",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Zopheridae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "901f0d8a-156b-5fb6-a9bf-107dec2d6261",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Gryllidae",
+      "Cucujidae",
+      "Lepidoptera",
+      "Culicidae"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.25,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "d91a3096-9395-5f8b-b5c8-21ba852f81ed",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Cucujidae"
+    ],
+    "subtopics": [
+      "Classification",
+      "Ecology"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "2ef85188-999e-5fa3-8c20-5a1f51fcad3f",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Scarabaeidae",
+      "Papilionidae",
+      "Mantodea",
+      "Boreidae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.39,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "1292958f-25af-50cd-876b-1b5aa3409b69",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [],
+    "answers": [
+      "Boreidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "38f2da38-d764-5b8a-9600-5d29213a9121",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Gyrinidae",
+      "Tipulidae",
+      "Papilionidae",
+      "Panorpidae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.77,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "da5d4de5-f3ba-52d1-b13f-9528b5c5254a",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [],
+    "answers": [
+      "Panorpidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "0c29964f-d118-5a9c-b189-0821e6afd491",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Curculionidae",
+      "Gryllidae",
+      "Raphidiidae",
+      "Lepidoptera"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.5,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "524fd072-0bf0-504f-9f2a-0ae475530697",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [],
+    "answers": [
+      "Raphidiidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "0e0e1446-9f1e-5bc0-bc3a-a6ddcd88433f",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [
+      "Hesperiidae",
+      "Gryllidae",
+      "Siphonaptera",
+      "Coleoptera"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.15,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "825a4e47-1425-5e34-b512-654134851e62",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [],
+    "answers": [
+      "Siphonaptera"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "88684862-d3aa-5b91-9d2d-f201e667fbf3",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Tipulidae",
+      "Gryllidae",
+      "Lepidoptera",
+      "Scarabaeidae"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.66,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "02c004a2-9acb-5d05-9b61-c6e5058e1f99",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Tipulidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "9b966761-d025-5e90-bc95-407f5bad4d8d",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Lepidoptera",
+      "Formicidae",
+      "Scarabaeidae",
+      "Culicidae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.39,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "7cabd6c3-ecbf-585f-bd1b-a25033de5f02",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Culicidae"
+    ],
+    "subtopics": [
+      "Classification",
+      "Ecology"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "4f722362-a9db-506c-8881-a218ac102749",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Formicidae",
+      "Papilionidae",
+      "Chironomidae",
+      "Gerridae"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.53,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "4c491e1b-cd59-504b-88db-8803224b5fd3",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Chironomidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "cd235d03-7112-5f2f-997a-ad489d81bebd",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Simuliidae",
+      "Scarabaeidae",
+      "Odonata",
+      "Formicidae"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.28,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "51046a37-34a2-5319-8efc-c50507d875f4",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Simuliidae"
+    ],
+    "subtopics": [
+      "Classification",
+      "Ecology"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "30805a36-6779-5f7d-96ee-2970172b7918",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Stratiomyidae",
+      "Scarabaeidae",
+      "Gelechiidae",
+      "Mantodea"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.22,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "ab8eee4e-6c20-59dc-a170-dce786633418",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Stratiomyidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "39ba18ab-566f-5cb1-b873-f19be3b584b9",
+    "question": "What is the family of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Gryllidae",
+      "Carabidae",
+      "Pieridae",
+      "Tabanidae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.71,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "4fbd52d4-38eb-5d62-9f58-11b1cbf0f172",
+    "question": "What is the family of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Tabanidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "0bd6b57f-d459-525e-bdb4-8c3fd3228957",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Lepidoptera",
+      "Gryllidae",
+      "Scarabaeidae",
+      "Asilidae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.36,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "486d9dd2-94a3-53f3-89bc-65fc27c99830",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [],
+    "answers": [
+      "Asilidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "9c102ab8-058b-501e-9387-8783c806b6ce",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Scarabaeidae",
+      "Bombyliidae",
+      "Mantodea",
+      "Papilionidae"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.63,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "c946afe6-17e0-5ff5-9870-42cdaf2b9717",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [],
+    "answers": [
+      "Bombyliidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "015821ca-cbda-5018-a6f8-89ee6d159914",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Gomphidae",
+      "Scarabaeidae",
+      "Syrphidae",
+      "Pieridae"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.27,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "9da3a15c-490f-5701-bdbc-75a2ee523423",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Syrphidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "c1946ff2-9246-59b0-ae8b-c93a1a1b2b7b",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Formicidae",
+      "Lepidoptera",
+      "Scarabaeidae",
+      "Tephritidae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.44,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "b0b22dd4-e9cf-56f6-b512-58342b2d8579",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Tephritidae"
+    ],
+    "subtopics": [
+      "Classification",
+      "Ecology"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "aac5775a-739a-5071-bb5a-32100ab1566f",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Scarabaeidae",
+      "Papilionidae",
+      "Mantodea",
+      "Drosophilidae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.29,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "2ddff151-8bc0-56f8-863d-0e164960462e",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Drosophilidae"
+    ],
+    "subtopics": [
+      "Classification",
+      "Ecology"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "fadc3bf8-05d2-541c-acde-cc9a9ef572ae",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Curculionidae",
+      "Lepidoptera",
+      "Gryllidae",
+      "Muscidae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.43,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "ba2ac432-01ad-5032-bbca-66227c21a0d8",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Muscidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "ee170ccf-eb87-53fb-b630-141cd6be893d",
+    "question": "What is the family of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Formicidae",
+      "Carabidae",
+      "Calliphoridae",
+      "Papilionidae"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.83,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "168cdd2f-d397-5e65-a088-b14eb88d7ddb",
+    "question": "What is the family of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Calliphoridae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "f4250750-758e-5aa5-adf8-9f57cd76c9fe",
+    "question": "What is the family of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Tachinidae",
+      "Curculionidae",
+      "Papilionidae",
+      "Formicidae"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.34,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "1d7c34bb-f26d-5dc5-9dab-d3861e84bd2e",
+    "question": "What is the family of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Tachinidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "b8a969f9-64fd-513c-81a9-c2bb53f7c259",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Oestridae",
+      "Papilionidae",
+      "Curculionidae",
+      "Mantodea"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.26,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "c9a7c3e6-df26-5714-962e-cd7a05737e05",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Oestridae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "6a2198b5-ae69-5fc6-a352-43053a4cc679",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Trichoptera",
+      "Gryllidae",
+      "Lepidoptera",
+      "Curculionidae"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.28,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "1e808079-a52b-58ff-a109-4ffc663c7192",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [],
+    "answers": [
+      "Trichoptera"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "ce723750-471d-590f-b8a8-cd053a4501c9",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Odonata",
+      "Formicidae",
+      "Sesiidae",
+      "Curculionidae"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.43,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "21d811c8-54a8-59dd-9faa-89e040eba29b",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Sesiidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "4d8b0968-4139-5ef1-9469-93f67dc7a0aa",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Ichneumonidae",
+      "Odonata",
+      "Curculionidae",
+      "Tortricidae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.53,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "174e8954-4d35-5ad7-907c-285e347171ce",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Tortricidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "ca37297f-d622-51f4-b326-519f1d5cd56d",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Curculionidae",
+      "Odonata",
+      "Formicidae",
+      "Hesperiidae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.31,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "aa060e4b-cbcb-5b1a-b484-91fa84a1a385",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Hesperiidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "25168aba-6194-5050-b161-c02484b18704",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Formicidae",
+      "Curculionidae",
+      "Odonata",
+      "Papilionidae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.32,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "686d8286-c90b-5b7e-b187-79bafa1f8a2f",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Papilionidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "43898375-d389-5ddb-a390-3f001ee288fc",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Formicidae",
+      "Curculionidae",
+      "Odonata",
+      "Pieridae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.56,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "b060600e-1847-5af1-a5a9-3cc549c92ff2",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Pieridae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "e052c5e7-5df5-5c4b-80ce-7551361ea5c8",
+    "question": "What is the family of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Formicidae",
+      "Tipulidae",
+      "Lycaenidae",
+      "Curculionidae"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.39,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "c0da86e5-220f-59e1-a192-1b64a9e6c0c2",
+    "question": "What is the family of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Lycaenidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "b0e9382e-d82d-5a53-a48c-c49bf77efbfd",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Curculionidae",
+      "Formicidae",
+      "Odonata",
+      "Nymphalidae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.85,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "b826b688-8b5e-5c37-8a7b-f4d91cf86038",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [],
+    "answers": [
+      "Nymphalidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "f92d35ac-ee4a-5590-94e1-1347a426160e",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Curculionidae",
+      "Odonata",
+      "Geometridae",
+      "Formicidae"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 1.0,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "b2d738dd-8a15-5def-956b-0f6dd0998ecf",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [],
+    "answers": [
+      "Geometridae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "7a9c8881-a849-56a4-aeb7-9f28fd74c7eb",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Formicidae",
+      "Curculionidae",
+      "Odonata",
+      "Lasiocampidae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.39,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "a0b8b3bc-411d-516c-824a-74179949a282",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Lasiocampidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "bb2ce532-d74d-5fb6-a196-d0002dc31129",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Odonata",
+      "Pyralidae",
+      "Formicidae",
+      "Curculionidae"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.3,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "1fd0bbd9-7197-54cf-941d-7852023334ae",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Pyralidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "0890c98e-f2d2-50b6-9e00-32f3ca9441c1",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Odonata",
+      "Saturniidae",
+      "Scarabaeidae",
+      "Formicidae"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.51,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "a4a2b020-be71-551e-a397-e3ba7d66cd16",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Saturniidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "5ed6e027-6600-5a4f-a723-00ecbab26ac0",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Sphingidae",
+      "Curculionidae",
+      "Formicidae",
+      "Odonata"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.43,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "aecddbae-5be8-5bc0-82b6-5d9697ff80dd",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Sphingidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "14eadea8-a3e8-519a-9755-7f9a303b8717",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Formicidae",
+      "Curculionidae",
+      "Odonata",
+      "Erebidae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.73,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "7f00b8e5-8d9d-5180-8f16-28b5a2c4531a",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Erebidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "f3139c99-385e-5093-99e2-48a15b857a44",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Odonata",
+      "Curculionidae",
+      "Formicidae",
+      "Noctuidae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.42,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "a9b11ba7-9bfa-5559-bc4a-61f3da9b47a6",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Noctuidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "e2b8052e-5d32-5fa1-9deb-812111299143",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Asilidae",
+      "Papilionidae",
+      "Curculionidae",
+      "Tenthredinidae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.49,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "ae13f3f1-7909-5fb8-ba48-26be52067db7",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Tenthredinidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "20f73efc-7333-52fb-94da-3a8d740bd0b6",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Odonata",
+      "Siricidae",
+      "Gelechiidae",
+      "Scarabaeidae"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.63,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "77cbd784-1c0b-5419-a617-71db6e2eace3",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Siricidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "8e6ef656-bb3b-5fa3-85ee-bfc1bafbba3a",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Curculionidae",
+      "Papilionidae",
+      "Odonata",
+      "Ichneumonidae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.53,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "99150804-3df3-5c6e-916d-8d2c991226f9",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Ichneumonidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "3e357def-d61b-5889-ad45-54285df52c84",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Gryllidae",
+      "Lepidoptera",
+      "Curculionidae",
+      "Cynipidae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.52,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "79c819d1-b033-5902-b714-4bc86fc8f647",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [],
+    "answers": [
+      "Cynipidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "0ed6cccc-3bd9-5a01-95d6-1050159d5117",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Curculionidae",
+      "Mutillidae",
+      "Lepidoptera",
+      "Gryllidae"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.55,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "b8ab2682-44e5-52b4-9f55-1dcebc762fb7",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Mutillidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "cf8f7774-7614-5d62-a304-a8ce2d77606c",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Curculionidae",
+      "Formicidae",
+      "Lepidoptera",
+      "Gryllidae"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.81,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "1c30d524-5769-5d7b-b0df-52b45ffed421",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Formicidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "37016066-1bb3-56ae-90c3-52d482304ef3",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [
+      "Odonata",
+      "Lepidoptera",
+      "Curculionidae",
+      "Vespidae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.67,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "f7800bdb-af83-5713-aadf-eab1a1b94ce1",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [],
+    "answers": [
+      "Vespidae"
+    ],
+    "subtopics": [
+      "Classification",
+      "Ecology"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "306f076d-0956-555a-99b8-9507f9dfb3b9",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Sphecidae",
+      "Gryllidae",
+      "Lepidoptera",
+      "Scarabaeidae"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.56,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "16d61e93-cece-56e6-b17c-5f1cc384c5e5",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Sphecidae"
+    ],
+    "subtopics": [
+      "Classification",
+      "Ecology"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "63ee06c4-56a4-525e-9750-4347c9ead03c",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Odonata",
+      "Gelechiidae",
+      "Curculionidae",
+      "Braconidae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.71,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "e7b96f17-20f9-542b-9b2d-8a63345058d9",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [],
+    "answers": [
+      "Braconidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "02262674-4f14-506e-abce-9bdc90d278d4",
+    "question": "What is the family of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Pieridae",
+      "Culicidae",
+      "Halictidae",
+      "Gryllidae"
+    ],
+    "answers": [
+      2
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.65,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "4816338e-c8c9-52e7-be40-a1bc28a6372c",
+    "question": "What is the family of this insect?",
+    "tournament": "ID Event",
+    "division": "B",
+    "options": [],
+    "answers": [
+      "Halictidae"
+    ],
+    "subtopics": [
+      "Classification",
+      "Ecology"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "7dba2c6b-0c11-512b-9e5a-711a7a583d9e",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Megachilidae",
+      "Nymphalidae",
+      "Diptera",
+      "Curculionidae"
+    ],
+    "answers": [
+      0
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.79,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "fbd4cee8-d288-5f7d-99d8-053179150751",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [],
+    "answers": [
+      "Megachilidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "70aeff06-81be-522c-81da-471cfc2abcc2",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [
+      "Pieridae",
+      "Culicidae",
+      "Gryllidae",
+      "Apidae"
+    ],
+    "answers": [
+      3
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.32,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "2fec1778-411c-5c16-bc45-5c8db792380b",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "B/C",
+    "options": [],
+    "answers": [
+      "Apidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "4445f610-36d5-5ff2-9375-f00ab609ba51",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [
+      "Pieridae",
+      "Ixodidae",
+      "Culicidae",
+      "Gryllidae"
+    ],
+    "answers": [
+      1
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.26,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  },
+  {
+    "id": "373e68d8-c3c1-5ad1-8152-83e743e70dac",
+    "question": "What is the family/order of this insect?",
+    "tournament": "ID Event",
+    "division": "C",
+    "options": [],
+    "answers": [
+      "Ixodidae"
+    ],
+    "subtopics": [
+      "Classification"
+    ],
+    "difficulty": 0.6,
+    "event": "Entomology",
+    "images": [],
+    "pure_id": true
+  }
+]

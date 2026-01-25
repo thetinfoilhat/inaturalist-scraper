@@ -1,0 +1,26 @@
+carabidae,ground beetles,tiger beetles
+dytiscidae,predaceous diving beetles
+gyrinidae,whirligig beetles
+hydrophilidae,water scavenger beetles
+psephenidae,water penny beetles
+elmidae,riffle beetles
+histeridae,hister beetles
+staphylinidae,rove beetles
+silphidae,burying beetles,carrion beetles
+lucanidae,stag beetles
+passalidae,bess beetles
+scarabaeidae,scarabs
+buprestidae,jewel beetles
+elateridae,click beetles
+lampyridae,fireflies
+cantharidae,soldier beetles
+lycidae,net-winged beetles
+cleridae,checkered beetles
+coccinellidae,lady beetles
+tenebrionidae,darkling beetles
+meloidae,blister beetles
+cerambycidae,longhorn beetles
+chrysomelidae,leaf beetles
+curculionidae,true weevils
+zopheridae,ironclad beetles, iron clad beetles, diabolical ironclad beetles, diabolical iron clad beetles
+cucujidae,flat bark beetles

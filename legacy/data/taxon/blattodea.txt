@@ -1,0 +1,3 @@
+termitidae,termites
+blattidae,household roaches,cockroaches
+cryptocercidae,brown hood roaches

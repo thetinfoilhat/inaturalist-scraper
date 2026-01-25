@@ -1,0 +1,14 @@
+sesiidae,clearwing moths
+tortricidae,tortricid leafroller moths
+hesperiidae,skippers
+papilionidae,swallowtails,parnassians
+pieridae,whites,yellows,sulphurs
+lycaenidae,gossamer-winged butterflies
+nymphalidae,brush-footed butterflies
+geometridae,geometer moths
+lasiocampidae,tent caterpillars
+pyralidae,pyralid snout moths
+saturniidae,emperor moths,giant silk moths
+sphingidae,sphinx moths
+erebidae,underwing moths,tiger moths,tussock moths
+noctuidae,owlet moths

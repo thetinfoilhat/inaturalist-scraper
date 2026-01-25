@@ -9,8 +9,3 @@ dump.rdb
 venv
 .envrc
 shell.nix
-
-# Image dirs (large; managed by scrapers/ingest)
-rocks/
-water/
-inat_images/

@@ -4,13 +4,18 @@ import json
 import logging
 import os
 import re
+from io import BytesIO
 from typing import Iterable, List, TypedDict
 
 import aiohttp
+try:
+    from PIL import Image
+except ImportError as exc:
+    raise SystemExit("Pillow is required to save images as .webp files.") from exc
 
 logger = logging.getLogger("inat_scrape")
 
-TAXON_ID_URL = "https://api.inaturalist.org/v1/taxa?q={taxon}&rank=genus&per_page=50"
+TAXON_ID_URL = "https://api.inaturalist.org/v1/taxa?q={taxon}&rank=family&per_page=50"
 OBSERVATIONS_URL = (
     "https://api.inaturalist.org/v1/observations?photos=true&photo_licensed=true"
     + "&place_id=46,10,50,22,14,16,15,52,34,40,9,13,44,3,25,12,18,38,24,28,36,27,32,29,35,20,31,33,26,45,37,19,17,41,47,2,8,49,48,51,42,4,39,5,7,30,43,23,21"
@@ -27,7 +32,7 @@ def slugify(name: str) -> str:
 
 class WaterEntry(TypedDict):
     common_name: str
-    scientific_genera: List[str]
+    scientific_families: List[str]
 
 
 def load_water_entries(path: str) -> List[WaterEntry]:
@@ -40,15 +45,15 @@ def load_water_entries(path: str) -> List[WaterEntry]:
         if not isinstance(item, dict):
             raise ValueError("water.json entries must be objects")
         common = item.get("common_name")
-        genera = item.get("scientific_genera")
-        if not isinstance(common, str) or not isinstance(genera, list):
+        families = item.get("scientific_families")
+        if not isinstance(common, str) or not isinstance(families, list):
             raise ValueError(
-                "water.json entries must have common_name and scientific_genera"
+                "water.json entries must have common_name and scientific_families"
             )
         entries.append(
             {
                 "common_name": common,
-                "scientific_genera": [str(g) for g in genera if str(g).strip()],
+                "scientific_families": [str(f) for f in families if str(f).strip()],
             }
         )
     return entries
@@ -92,7 +97,7 @@ async def get_taxon_id(taxon: str, session: aiohttp.ClientSession) -> int | None
     exact = [
         item
         for item in results
-        if item.get("rank") == "genus"
+        if item.get("rank") == "family"
         and str(item.get("name", "")).lower() == taxon.lower()
     ]
     if exact:
@@ -117,6 +122,7 @@ async def get_urls(
     taxon_id = await get_taxon_id(item, session)
     if not taxon_id:
         logger.info("no taxon id found for %s", item)
+        return (0, tuple(), tuple())
 
     urls = []
     ids = []
@@ -161,16 +167,10 @@ async def download_images(
                 if resp.status != 200:
                     logger.warning("download failed (%s): %s", url, resp.status)
                     continue
-                ext = url.split(".")[-1].split("?")[0].lower() or "bin"
-                if ext == "jpeg":
-                    ext = "jpg"
-                path = next_filename(outdir, base, ext)
-                with open(path, "wb") as f:
-                    while True:
-                        block = await resp.content.read(1024 * 8)
-                        if not block:
-                            break
-                        f.write(block)
+                data = await resp.read()
+                with Image.open(BytesIO(data)) as img:
+                    path = next_filename(outdir, base, "webp")
+                    img.save(path, format="WEBP")
                 saved += 1
         except aiohttp.ClientError:
             logger.warning("download error: %s", url)
@@ -189,22 +189,22 @@ async def run(args: argparse.Namespace) -> None:
     async with aiohttp.ClientSession(connector=connector) as session:
         for entry in entries:
             common_name = entry["common_name"]
-            genera = entry["scientific_genera"]
-            if not genera:
-                print(f"skip: no genera for {common_name}")
+            families = entry["scientific_families"]
+            if not families:
+                print(f"skip: no families for {common_name}")
                 continue
-            for genus in genera:
-                logger.info("taxon: %s (%s)", genus, common_name)
-                urls = await get_urls_for_taxon(session, genus, args.per_taxon)
+            for family in families:
+                logger.info("taxon: %s (%s)", family, common_name)
+                urls = await get_urls_for_taxon(session, family, args.per_taxon)
                 if len(urls) > args.per_taxon:
                     urls = urls[: args.per_taxon]
                 logger.info("urls returned: %s", len(urls))
                 if not urls:
-                    print(f"skip: no photos for {genus} ({common_name})")
+                    print(f"skip: no photos for {family} ({common_name})")
                     continue
 
                 saved = await download_images(session, urls, args.outdir, common_name)
-                print(f"{common_name} ({genus}): saved {saved} image(s)")
+                print(f"{common_name} ({family}): saved {saved} image(s)")
 
 
 def main() -> None:
