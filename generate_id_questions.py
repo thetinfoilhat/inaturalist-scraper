@@ -29,10 +29,6 @@ except Exception:
 LOGGER = logging.getLogger("bugbo-id-gen")
 
 
-HARDCODED_KEYS: List[str] = [
-    "AIzaSyBPilBHjt5XuvSaxU4wZIVw_rYDF5X6Si4"
-]
-
 SYSTEM_INSTRUCTION = (
     "You are an expert Science Olympiad question author. "
     "Think step-by-step internally. Use hidden scratchpad reasoning but NEVER include "
@@ -69,14 +65,18 @@ def normalize_specimen_names(specimen_name: str, answers: object) -> list[str]:
     return out
 
 def load_keys(path: str, max_keys: int | None) -> List[str]:
-    keys: List[str] = []
-    source = "file"
     if path == "HARDCODED" or not os.path.isfile(path):
-        keys = [k for k in HARDCODED_KEYS if k]
-        source = "hardcoded"
-    else:
-        with Path(path).open("r", encoding="utf-8") as f:
-            keys = [ln.strip() for ln in f if ln.strip()]
+        key = (os.getenv("GEMINI_KEY") or "").strip()
+        if not key:
+            raise RuntimeError(
+                "GEMINI_KEY environment variable is not set. Set it in .env or export GEMINI_KEY."
+            )
+        LOGGER.info("Loaded 1 API key (GEMINI_KEY from env)")
+        return [key]
+
+    keys: List[str] = []
+    with Path(path).open("r", encoding="utf-8") as f:
+        keys = [ln.strip() for ln in f if ln.strip()]
     seen: set[str] = set()
     filtered: List[str] = []
     for k in keys:
@@ -88,7 +88,7 @@ def load_keys(path: str, max_keys: int | None) -> List[str]:
         filtered = filtered[:max_keys]
     if not filtered:
         raise RuntimeError("No valid API keys found")
-    LOGGER.info("Loaded %d API keys (%s)", len(filtered), source)
+    LOGGER.info("Loaded %d API keys (file)", len(filtered))
     return filtered
 
 
@@ -442,7 +442,11 @@ def parse_args() -> argparse.Namespace:
     ap = argparse.ArgumentParser(
         description="Generate ID-only questions (1 MCQ + 1 FRQ per specimen) for Rocks, Water, Entomology in Bugbo."
     )
-    ap.add_argument("--keys", default="HARDCODED", help="Path to gemini_keys.txt or HARDCODED")
+    ap.add_argument(
+        "--keys",
+        default="HARDCODED",
+        help="Path to gemini_keys.txt, or HARDCODED to use GEMINI_KEY from env",
+    )
     ap.add_argument("--model", default="gemini-2.0-flash", help="Gemini model")
     ap.add_argument("--max-keys", type=int, default=None)
     ap.add_argument("--log-level", default="INFO", choices=["DEBUG", "INFO", "WARNING", "ERROR"])
