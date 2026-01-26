@@ -90,11 +90,11 @@ def connect_db():
                 pass
 
 
-def ensure_id_questions_table(conn) -> None:
+def ensure_id_events_table(conn) -> None:
     with conn.cursor() as cur:
         cur.execute(
             """
-            CREATE TABLE IF NOT EXISTS public.id_questions (
+            CREATE TABLE IF NOT EXISTS public.id_events (
               id UUID PRIMARY KEY,
               question STRING NOT NULL,
               tournament STRING NOT NULL,
@@ -105,10 +105,21 @@ def ensure_id_questions_table(conn) -> None:
               difficulty DECIMAL DEFAULT 0.5,
               event STRING NOT NULL,
               images JSONB DEFAULT '[]',
+              random_f FLOAT8 DEFAULT random(),
               pure_id BOOL DEFAULT false,
               rm_type STRING,
               created_at TIMESTAMPTZ DEFAULT now(),
-              updated_at TIMESTAMPTZ DEFAULT now()
+              updated_at TIMESTAMPTZ DEFAULT now(),
+              question_type STRING AS (
+                CASE
+                  WHEN (jsonb_typeof(options) = 'array') AND (jsonb_array_length(options) >= 2)
+                  THEN 'mcq'
+                  ELSE 'frq'
+                END
+              ) STORED,
+              INDEX id_events_evt_rand_idx (event ASC, random_f ASC),
+              INDEX id_events_evt_qtype_rand_idx (event ASC, question_type ASC, random_f ASC),
+              INDEX id_events_evt_qtype_pure_rand_idx (event ASC, question_type ASC, pure_id ASC, random_f ASC)
             )
             """
         )
@@ -132,7 +143,7 @@ def upsert_id_question(conn, row: dict) -> None:
     with conn.cursor() as cur:
         cur.execute(
             """
-            INSERT INTO public.id_questions
+            INSERT INTO public.id_events
             (id, question, tournament, division, options, answers, subtopics, difficulty, event, images, pure_id, rm_type)
             VALUES (%(id)s, %(question)s, %(tournament)s, %(division)s, %(options)s::jsonb, %(answers)s::jsonb, %(subtopics)s::jsonb, %(difficulty)s, %(event)s, %(images)s::jsonb, %(pure_id)s, %(rm_type)s)
             ON CONFLICT (id) DO UPDATE SET
@@ -315,6 +326,7 @@ def run_event(
     cloudinary_folder: str,
     cloudinary_config: dict,
     upload_cache: dict,
+    question_only: bool = False,
 ) -> None:
     cloudinary.config(**cloudinary_config, secure=True)
     items = load_json(json_path)
@@ -358,6 +370,8 @@ def run_event(
             }
             log.info("[%s] Upserting FRQ: %s", event_key, row.get("question", "")[:120])
             upsert_id_question(conn, row)
+        if question_only:
+            continue
         event_name = (mcq or frq or {}).get("event") or ""
         matched_paths: List[str] = []
         for name in specimen_names:
@@ -394,6 +408,11 @@ def main() -> int:
     parser.add_argument("--rocks", action="store_true", help="Ingest rocks only")
     parser.add_argument("--water", action="store_true", help="Ingest water only")
     parser.add_argument("--entomology", action="store_true", help="Ingest entomology only")
+    parser.add_argument(
+        "--question-only",
+        action="store_true",
+        help="Ingest questions only (skip image uploads and specimen_pictures).",
+    )
     args = parser.parse_args()
 
     selected = {k for k, v in {"rocks": args.rocks, "water": args.water, "entomology": args.entomology}.items() if v}
@@ -424,8 +443,6 @@ def main() -> int:
     ento_cloudinary = water_cloudinary
     conn = connect_db()
     try:
-        ensure_id_questions_table(conn)
-        ensure_specimen_pictures_table(conn)
         upload_cache: dict = {}
         if "rocks" in selected:
             run_event(
@@ -436,6 +453,7 @@ def main() -> int:
                 "bugbo/rocks",
                 rocks_cloudinary,
                 upload_cache,
+                args.question_only,
             )
         if "water" in selected:
             run_event(
@@ -446,6 +464,7 @@ def main() -> int:
                 "bugbo/water",
                 water_cloudinary,
                 upload_cache,
+                args.question_only,
             )
         if "entomology" in selected:
             run_event(
@@ -456,6 +475,7 @@ def main() -> int:
                 "bugbo/entomology",
                 ento_cloudinary,
                 upload_cache,
+                args.question_only,
             )
         log.info("Ingest done. Upload cache size: %d", len(upload_cache))
         return 0
