@@ -5,5 +5,10 @@ CREATE TABLE IF NOT EXISTS public.specimen_pictures (
   id UUID PRIMARY KEY,
   specimen STRING[] NOT NULL,
   cloudinary_link STRING NOT NULL,
-  event_name STRING NOT NULL
+  event_name STRING NOT NULL,
+  time STRING,
+  statesNationals BOOLEAN,
+  distractors STRING[],
+  rm_type STRING,
+  pure_id BOOLEAN
 );
