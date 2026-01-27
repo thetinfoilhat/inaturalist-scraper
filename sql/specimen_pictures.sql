@@ -6,9 +6,7 @@ CREATE TABLE IF NOT EXISTS public.specimen_pictures (
   specimen STRING[] NOT NULL,
   cloudinary_link STRING NOT NULL,
   event_name STRING NOT NULL,
-  time STRING,
-  statesNationals BOOLEAN,
+  created_at TIMESTAMPTZ NULL DEFAULT now():::TIMESTAMPTZ,
+  updated_at TIMESTAMPTZ NULL DEFAULT now():::TIMESTAMPTZ,
   distractors STRING[],
-  rm_type STRING,
-  pure_id BOOLEAN
 );

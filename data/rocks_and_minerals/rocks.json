@@ -1,0 +1,782 @@
+[
+    {
+      "specimen": "actinolite",
+      "statesNationals": true,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "agate",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "alabaster",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "albite",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "almandine",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "amazonite",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "amethyst",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "amphibolite",
+      "statesNationals": true,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "andesite",
+      "statesNationals": false,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "anthracite",
+      "statesNationals": false,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "apatite",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "apophyllite",
+      "statesNationals": true,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "aragonite",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "arkose",
+      "statesNationals": false,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "augite",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "aventurine",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "azurite",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "banded_iron_formation",
+      "statesNationals": false,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "barite",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "basalt",
+      "statesNationals": false,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "bauxite",
+      "statesNationals": false,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "beryl",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "biotite",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "bituminous",
+      "statesNationals": false,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "bornite",
+      "statesNationals": true,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "breccia",
+      "statesNationals": false,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "calcite",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "celestite",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "chalcedony",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "chalcopyrite",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "chalk",
+      "statesNationals": false,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "chert",
+      "statesNationals": false,
+      "rm_type": "rock",
+      "aliases": ["flint"]
+    },
+    {
+      "specimen": "chrysocolla",
+      "statesNationals": true,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "citrine",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "conglomerate",
+      "statesNationals": false,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "copper",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "coquina",
+      "statesNationals": false,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "corundum",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "diamond",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "diatomite",
+      "statesNationals": true,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "dioptase",
+      "statesNationals": true,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "diorite",
+      "statesNationals": false,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "dolomite",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "dolostone",
+      "statesNationals": false,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "epidote",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "fluorapatite",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "fluorite",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "fossil_limestone",
+      "statesNationals": false,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "gabbro",
+      "statesNationals": false,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "galena",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "garnet_schist",
+      "statesNationals": false,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "gneiss",
+      "statesNationals": false,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "goethite",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "gold",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "granite",
+      "statesNationals": false,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "graphite",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "greywacke",
+      "statesNationals": true,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "grossular",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "halite",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "hematite",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "hornblende",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "jasper",
+      "statesNationals": true,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "kaolinite",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "kyanite",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "labradorite",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "lepidolite",
+      "statesNationals": true,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "lignite",
+      "statesNationals": false,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "limonite",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "magnesite",
+      "statesNationals": true,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "magnetite",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "malachite",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "marble",
+      "statesNationals": false,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "mica_schist",
+      "statesNationals": false,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "milky_quartz",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "muscovite",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "obsidian",
+      "statesNationals": false,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "olivine",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "oolitic_limestone",
+      "statesNationals": false,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "opal",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "orthoclase",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "pegmatite",
+      "statesNationals": false,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "peridotite",
+      "statesNationals": false,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "phyllite",
+      "statesNationals": false,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "prehnite",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "pumice",
+      "statesNationals": false,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "pyrite",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "pyrolusite",
+      "statesNationals": true,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "pyromorphite",
+      "statesNationals": true,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "quartz_sandstone",
+      "statesNationals": false,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "quartzite",
+      "statesNationals": false,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "rhodochrosite",
+      "statesNationals": true,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "rhodonite",
+      "statesNationals": true,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "rhyolite",
+      "statesNationals": false,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "rock_crystal",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "rose_quartz",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "rutile",
+      "statesNationals": true,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "satin_spar",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "scoria",
+      "statesNationals": false,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "selenite",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "serpentinite",
+      "statesNationals": true,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "shale",
+      "statesNationals": false,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "siderite",
+      "statesNationals": true,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "siltstone",
+      "statesNationals": true,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "silver",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "slate",
+      "statesNationals": false,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "smoky_quartz",
+      "statesNationals": true,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "talc_schist_soapstone",
+      "statesNationals": true,
+      "rm_type": "rock",
+      "aliases": ["soapstone"]
+    },
+    {
+      "specimen": "sodalite",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "sphalerite",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "spodumene",
+      "statesNationals": true,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "staurolite",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "stibnite",
+      "statesNationals": true,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "stilbite",
+      "statesNationals": true,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "sulfur",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "syenite",
+      "statesNationals": true,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "talc",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "tigers-eye",
+      "statesNationals": true,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "topaz",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "tourmaline",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "travertine",
+      "statesNationals": false,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "tremolite",
+      "statesNationals": true,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "tuff",
+      "statesNationals": true,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "tuff_breccia",
+      "statesNationals": true,
+      "rm_type": "rock",
+      "aliases": []
+    },
+    {
+      "specimen": "turquoise",
+      "statesNationals": true,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "ulexite",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "vanadinite",
+      "statesNationals": true,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "willemite",
+      "statesNationals": true,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "wollastonite",
+      "statesNationals": true,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "zincite",
+      "statesNationals": true,
+      "rm_type": "mineral",
+      "aliases": []
+    },
+    {
+      "specimen": "zircon",
+      "statesNationals": false,
+      "rm_type": "mineral",
+      "aliases": []
+    }
+  ]

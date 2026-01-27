@@ -13,8 +13,9 @@ except ImportError as exc:
     raise SystemExit("Pillow is required to save images as .webp files.") from exc
 
 BASE_ROOT = "https://www.scioly.rocks"
-OUTPUT_DIR = "rocks"
-INPUT_FILE = "rocks.txt"
+ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
+OUTPUT_DIR = os.path.join(ROOT_DIR, "rocks")
+INPUT_FILE = os.path.join(ROOT_DIR, "rocks.txt")
 SSL_CONTEXT = ssl._create_unverified_context()
 
 
@@ -51,6 +52,11 @@ def read_specimens(path: str) -> list[str]:
             if name:
                 specimens.append(name)
     return specimens
+
+
+def has_existing_images(files: list[str], base: str) -> bool:
+    pattern = re.compile(rf"^{re.escape(base)}(\(\d+\))?\.webp$", re.IGNORECASE)
+    return any(pattern.match(name) for name in files)
 
 
 def fetch_image(url: str) -> bytes | None:
@@ -104,6 +110,7 @@ def main() -> int:
         return 1
 
     os.makedirs(OUTPUT_DIR, exist_ok=True)
+    existing_files = os.listdir(OUTPUT_DIR)
     specimens = read_specimens(INPUT_FILE)
     if start_from:
         start_lower = start_from.lower()
@@ -112,6 +119,9 @@ def main() -> int:
     for specimen in specimens:
         pascal = to_pascal(specimen)
         filename_base = to_filename_base(specimen)
+        if has_existing_images(existing_files, filename_base):
+            print(f"skipping {specimen}: images already exist for {filename_base}")
+            continue
 
         minerals_url = f"{BASE_ROOT}/{pascal}"
         print(f"{specimen} -> {minerals_url}")
@@ -120,6 +130,7 @@ def main() -> int:
         rocks_url = f"{BASE_ROOT}/rocks/{pascal}"
         print(f"{specimen} -> {rocks_url}")
         download_sequence(rocks_url, filename_base)
+        existing_files = os.listdir(OUTPUT_DIR)
 
     return 0
 

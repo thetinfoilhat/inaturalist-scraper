@@ -1,0 +1,632 @@
+[
+    {
+      "specimen": "protura",
+      "statesNationals": true,
+      "aliases": ["Coneheads"]
+    },
+    {
+      "specimen": "collembola",
+      "statesNationals": false,
+      "aliases": ["Springtails"]
+    },
+    {
+      "specimen": "diplura",
+      "statesNationals": false,
+      "aliases": ["Two-pronged Bristletails"]
+    },
+    {
+      "specimen": "archaeognatha",
+      "statesNationals": false,
+      "aliases": ["Jumping Bristletails"]
+    },
+    {
+      "specimen": "zygentoma",
+      "statesNationals": false,
+      "aliases": ["Silverfish"]
+    },
+    {
+      "specimen": "ephemeroptera",
+      "statesNationals": false,
+      "aliases": ["Mayflies"]
+    },
+    {
+      "specimen": "aeshnidae",
+      "statesNationals": false,
+      "aliases": ["Darners"]
+    },
+    {
+      "specimen": "gomphidae",
+      "statesNationals": true,
+      "aliases": ["Clubtails"]
+    },
+    {
+      "specimen": "libellulidae",
+      "statesNationals": false,
+      "aliases": ["Skimmers"]
+    },
+    {
+      "specimen": "lestidae",
+      "statesNationals": false,
+      "aliases": ["Spreadwings"]
+    },
+    {
+      "specimen": "coenagrionidae",
+      "statesNationals": false,
+      "aliases": ["Narrow-winged Damselflies"]
+    },
+    {
+      "specimen": "termitidae",
+      "statesNationals": false,
+      "aliases": ["Termites"]
+    },
+    {
+      "specimen": "blattidae",
+      "statesNationals": false,
+      "aliases": ["Cockroaches"]
+    },
+    {
+      "specimen": "cryptocercidae",
+      "statesNationals": true,
+      "aliases": ["Wood Roaches"]
+    },
+    {
+      "specimen": "mantodea",
+      "statesNationals": false,
+      "aliases": ["Mantids"]
+    },
+    {
+      "specimen": "embioptera",
+      "statesNationals": true,
+      "aliases": ["Webspinners"]
+    },
+    {
+      "specimen": "dermaptera",
+      "statesNationals": false,
+      "aliases": ["Earwigs"]
+    },
+    {
+      "specimen": "plecoptera",
+      "statesNationals": false,
+      "aliases": ["Stoneflies"]
+    },
+    {
+      "specimen": "tetrigidae",
+      "statesNationals": true,
+      "aliases": ["Pygmy Grasshoppers"]
+    },
+    {
+      "specimen": "acrididae",
+      "statesNationals": false,
+      "aliases": ["Short-horned Grasshoppers"]
+    },
+    {
+      "specimen": "tettigoniidae",
+      "statesNationals": false,
+      "aliases": ["Katydids"]
+    },
+    {
+      "specimen": "rhaphidophoridae",
+      "statesNationals": false,
+      "aliases": ["Camel Crickets"]
+    },
+    {
+      "specimen": "gryllidae",
+      "statesNationals": false,
+      "aliases": ["True Crickets"]
+    },
+    {
+      "specimen": "gryllotalpidae",
+      "statesNationals": false,
+      "aliases": ["Mole Crickets"]
+    },
+    {
+      "specimen": "diapheromeridae",
+      "statesNationals": false,
+      "aliases": ["Walkingsticks"]
+    },
+    {
+      "specimen": "psocodea",
+      "statesNationals": false,
+      "aliases": ["Barklice", "Booklice"]
+    },
+    {
+      "specimen": "corixidae",
+      "statesNationals": false,
+      "aliases": ["Water Boatmen"]
+    },
+    {
+      "specimen": "notonectidae",
+      "statesNationals": false,
+      "aliases": ["Backswimmers"]
+    },
+    {
+      "specimen": "belostomatidae",
+      "statesNationals": false,
+      "aliases": ["Giant Water Bugs"]
+    },
+    {
+      "specimen": "nepidae",
+      "statesNationals": true,
+      "aliases": ["Water Scorpions"]
+    },
+    {
+      "specimen": "gelastocoridae",
+      "statesNationals": true,
+      "aliases": ["Toad Bugs"]
+    },
+    {
+      "specimen": "gerridae",
+      "statesNationals": false,
+      "aliases": ["Water Striders"]
+    },
+    {
+      "specimen": "cimicidae",
+      "statesNationals": false,
+      "aliases": ["Bed Bugs"]
+    },
+    {
+      "specimen": "miridae",
+      "statesNationals": true,
+      "aliases": ["Plant Bugs"]
+    },
+    {
+      "specimen": "reduviidae",
+      "statesNationals": false,
+      "aliases": ["Assassin Bugs"]
+    },
+    {
+      "specimen": "scutelleridae",
+      "statesNationals": false,
+      "aliases": ["Shield-backed Bugs"]
+    },
+    {
+      "specimen": "tingidae",
+      "statesNationals": true,
+      "aliases": ["Lace Bugs"]
+    },
+    {
+      "specimen": "lygaeidae",
+      "statesNationals": true,
+      "aliases": ["Seed Bugs"]
+    },
+    {
+      "specimen": "coreidae",
+      "statesNationals": false,
+      "aliases": ["Leaf-footed Bugs"]
+    },
+    {
+      "specimen": "pentatomidae",
+      "statesNationals": false,
+      "aliases": ["Stink Bugs"]
+    },
+    {
+      "specimen": "cicadidae",
+      "statesNationals": false,
+      "aliases": ["Cicadas"]
+    },
+    {
+      "specimen": "membracidae",
+      "statesNationals": false,
+      "aliases": ["Treehoppers"]
+    },
+    {
+      "specimen": "cercopidae",
+      "statesNationals": false,
+      "aliases": ["Froghoppers", "Spittlebugs"]
+    },
+    {
+      "specimen": "cicadellidae",
+      "statesNationals": false,
+      "aliases": ["Leafhoppers"]
+    },
+    {
+      "specimen": "fulgoridae",
+      "statesNationals": false,
+      "aliases": ["Planthoppers"]
+    },
+    {
+      "specimen": "aphididae",
+      "statesNationals": false,
+      "aliases": ["Aphids"]
+    },
+    {
+      "specimen": "pseudococcidae",
+      "statesNationals": false,
+      "aliases": ["Mealybugs"]
+    },
+    {
+      "specimen": "coccidae",
+      "statesNationals": false,
+      "aliases": ["Soft Scales"]
+    },
+    {
+      "specimen": "thysanoptera",
+      "statesNationals": false,
+      "aliases": ["Thrips"]
+    },
+    {
+      "specimen": "megaloptera",
+      "statesNationals": false,
+      "aliases": ["Dobsonflies"]
+    },
+    {
+      "specimen": "chrysopidae",
+      "statesNationals": false,
+      "aliases": ["Green Lacewings"]
+    },
+    {
+      "specimen": "myrmeleontidae",
+      "statesNationals": false,
+      "aliases": ["Antlions"]
+    },
+    {
+      "specimen": "cicindelinae",
+      "statesNationals": false,
+      "aliases": ["Tiger Beetles"]
+    },
+    {
+      "specimen": "carabidae",
+      "statesNationals": false,
+      "aliases": ["Ground Beetles"]
+    },
+    {
+      "specimen": "dytiscidae",
+      "statesNationals": false,
+      "aliases": ["Predaceous Diving Beetles"]
+    },
+    {
+      "specimen": "gyrinidae",
+      "statesNationals": false,
+      "aliases": ["Whirligig Beetles"]
+    },
+    {
+      "specimen": "hydrophilidae",
+      "statesNationals": false,
+      "aliases": ["Water Scavenger Beetles"]
+    },
+    {
+      "specimen": "psephenidae",
+      "statesNationals": false,
+      "aliases": ["Water Pennies"]
+    },
+    {
+      "specimen": "elmidae",
+      "statesNationals": false,
+      "aliases": ["Riffle Beetles"]
+    },
+    {
+      "specimen": "histeridae",
+      "statesNationals": true,
+      "aliases": ["Clown Beetles"]
+    },
+    {
+      "specimen": "staphylinidae",
+      "statesNationals": false,
+      "aliases": ["Rove Beetles"]
+    },
+    {
+      "specimen": "silphidae",
+      "statesNationals": true,
+      "aliases": ["Carrion Beetles"]
+    },
+    {
+      "specimen": "lucanidae",
+      "statesNationals": false,
+      "aliases": ["Stag Beetles"]
+    },
+    {
+      "specimen": "passalidae",
+      "statesNationals": false,
+      "aliases": ["Bess Beetles"]
+    },
+    {
+      "specimen": "scarabaeidae",
+      "statesNationals": false,
+      "aliases": ["Scarab Beetles"]
+    },
+    {
+      "specimen": "buprestidae",
+      "statesNationals": false,
+      "aliases": ["Jewel Beetles"]
+    },
+    {
+      "specimen": "elateridae",
+      "statesNationals": true,
+      "aliases": ["Click Beetles"]
+    },
+    {
+      "specimen": "lampyridae",
+      "statesNationals": true,
+      "aliases": ["Fireflies"]
+    },
+    {
+      "specimen": "cantharidae",
+      "statesNationals": false,
+      "aliases": ["Soldier Beetles"]
+    },
+    {
+      "specimen": "lycidae",
+      "statesNationals": true,
+      "aliases": ["Net-winged Beetles"]
+    },
+    {
+      "specimen": "cleridae",
+      "statesNationals": true,
+      "aliases": ["Checkered Beetles"]
+    },
+    {
+      "specimen": "coccinellidae",
+      "statesNationals": false,
+      "aliases": ["Lady Beetles"]
+    },
+    {
+      "specimen": "tenebrionidae",
+      "statesNationals": false,
+      "aliases": ["Darkling Beetles"]
+    },
+    {
+      "specimen": "meloidae",
+      "statesNationals": false,
+      "aliases": ["Blister Beetles"]
+    },
+    {
+      "specimen": "cerambycidae",
+      "statesNationals": false,
+      "aliases": ["Longhorned Beetles"]
+    },
+    {
+      "specimen": "chrysomelidae",
+      "statesNationals": false,
+      "aliases": ["Leaf Beetles"]
+    },
+    {
+      "specimen": "curculionidae",
+      "statesNationals": false,
+      "aliases": ["Weevils"]
+    },
+    {
+      "specimen": "zopheridae",
+      "statesNationals": true,
+      "aliases": ["Ironclad Beetles"]
+    },
+    {
+      "specimen": "cucujidae",
+      "statesNationals": false,
+      "aliases": ["Flat Bark Beetles"]
+    },
+    {
+      "specimen": "boreidae",
+      "statesNationals": true,
+      "aliases": ["Snow Scorpions"]
+    },
+    {
+      "specimen": "panorpidae",
+      "statesNationals": true,
+      "aliases": ["Common Scorpionflies"]
+    },
+    {
+      "specimen": "raphidiidae",
+      "statesNationals": false,
+      "aliases": ["Snakeflies"]
+    },
+    {
+      "specimen": "siphonaptera",
+      "statesNationals": false,
+      "aliases": ["Fleas"]
+    },
+    {
+      "specimen": "tipulidae",
+      "statesNationals": false,
+      "aliases": ["Crane Flies"]
+    },
+    {
+      "specimen": "culicidae",
+      "statesNationals": false,
+      "aliases": ["Mosquitoes"]
+    },
+    {
+      "specimen": "chironomidae",
+      "statesNationals": false,
+      "aliases": ["Midges"]
+    },
+    {
+      "specimen": "simuliidae",
+      "statesNationals": true,
+      "aliases": ["Black Flies"]
+    },
+    {
+      "specimen": "stratiomyidae",
+      "statesNationals": false,
+      "aliases": ["Soldier Flies"]
+    },
+    {
+      "specimen": "tabanidae",
+      "statesNationals": false,
+      "aliases": ["Horse Flies"]
+    },
+    {
+      "specimen": "asilidae",
+      "statesNationals": false,
+      "aliases": ["Robber Flies"]
+    },
+    {
+      "specimen": "bombyliidae",
+      "statesNationals": false,
+      "aliases": ["Bee Flies"]
+    },
+    {
+      "specimen": "syrphidae",
+      "statesNationals": false,
+      "aliases": ["Hover Flies"]
+    },
+    {
+      "specimen": "tephritidae",
+      "statesNationals": true,
+      "aliases": ["Fruit Flies"]
+    },
+    {
+      "specimen": "drosophilidae",
+      "statesNationals": false,
+      "aliases": ["Vinegar Flies"]
+    },
+    {
+      "specimen": "muscidae",
+      "statesNationals": false,
+      "aliases": ["House Flies"]
+    },
+    {
+      "specimen": "calliphoridae",
+      "statesNationals": false,
+      "aliases": ["Blow Flies"]
+    },
+    {
+      "specimen": "tachinidae",
+      "statesNationals": true,
+      "aliases": ["Tachinid Flies"]
+    },
+    {
+      "specimen": "oestridae",
+      "statesNationals": false,
+      "aliases": ["Bot Flies"]
+    },
+    {
+      "specimen": "trichoptera",
+      "statesNationals": false,
+      "aliases": ["Caddisflies"]
+    },
+    {
+      "specimen": "sesiidae",
+      "statesNationals": false,
+      "aliases": ["Clearwing Moths"]
+    },
+    {
+      "specimen": "tortricidae",
+      "statesNationals": true,
+      "aliases": ["Tortricid Moths"]
+    },
+    {
+      "specimen": "hesperiidae",
+      "statesNationals": false,
+      "aliases": ["Skippers"]
+    },
+    {
+      "specimen": "papilionidae",
+      "statesNationals": false,
+      "aliases": ["Swallowtails"]
+    },
+    {
+      "specimen": "pieridae",
+      "statesNationals": false,
+      "aliases": ["Whites and Sulphurs"]
+    },
+    {
+      "specimen": "lycaenidae",
+      "statesNationals": false,
+      "aliases": ["Gossamer-winged Butterflies"]
+    },
+    {
+      "specimen": "nymphalidae",
+      "statesNationals": false,
+      "aliases": ["Brush-footed Butterflies"]
+    },
+    {
+      "specimen": "geometridae",
+      "statesNationals": false,
+      "aliases": ["Geometer Moths"]
+    },
+    {
+      "specimen": "lasiocampidae",
+      "statesNationals": true,
+      "aliases": ["Tent Caterpillars"]
+    },
+    {
+      "specimen": "pyralidae",
+      "statesNationals": true,
+      "aliases": ["Snout Moths"]
+    },
+    {
+      "specimen": "saturniidae",
+      "statesNationals": false,
+      "aliases": ["Giant Silk Moths"]
+    },
+    {
+      "specimen": "sphingidae",
+      "statesNationals": false,
+      "aliases": ["Sphinx Moths"]
+    },
+    {
+      "specimen": "erebidae",
+      "statesNationals": false,
+      "aliases": ["Erebid Moths"]
+    },
+    {
+      "specimen": "noctuidae",
+      "statesNationals": false,
+      "aliases": ["Owlet Moths"]
+    },
+    {
+      "specimen": "tenthredinidae",
+      "statesNationals": false,
+      "aliases": ["Common Sawflies"]
+    },
+    {
+      "specimen": "siricidae",
+      "statesNationals": true,
+      "aliases": ["Horntails"]
+    },
+    {
+      "specimen": "ichneumonidae",
+      "statesNationals": false,
+      "aliases": ["Ichneumon Wasps"]
+    },
+    {
+      "specimen": "cynipidae",
+      "statesNationals": true,
+      "aliases": ["Gall Wasps"]
+    },
+    {
+      "specimen": "mutillidae",
+      "statesNationals": false,
+      "aliases": ["Velvet Ants"]
+    },
+    {
+      "specimen": "formicidae",
+      "statesNationals": false,
+      "aliases": ["Ants"]
+    },
+    {
+      "specimen": "vespidae",
+      "statesNationals": false,
+      "aliases": ["Paper Wasps", "Hornets", "Yellowjackets"]
+    },
+    {
+      "specimen": "sphecidae",
+      "statesNationals": false,
+      "aliases": ["Thread-waisted Wasps"]
+    },
+    {
+      "specimen": "braconidae",
+      "statesNationals": true,
+      "aliases": ["Braconid Wasps"]
+    },
+    {
+      "specimen": "halictidae",
+      "statesNationals": false,
+      "aliases": ["Sweat Bees"]
+    },
+    {
+      "specimen": "megachilidae",
+      "statesNationals": false,
+      "aliases": ["Leafcutter Bees"]
+    },
+    {
+      "specimen": "apidae",
+      "statesNationals": false,
+      "aliases": ["Bumble Bees", "Honey Bees"]
+    },
+    {
+      "specimen": "ixodidae",
+      "statesNationals": false,
+      "aliases": ["Hard Ticks"]
+    }
+  ]
