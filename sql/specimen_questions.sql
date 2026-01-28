@@ -8,7 +8,6 @@
     subtopics JSONB NULL DEFAULT '[]':::JSONB,
     difficulty DECIMAL NULL DEFAULT 0.5:::DECIMAL,
     event STRING NOT NULL,
-    images JSONB NOT NULL DEFAULT '[]':::JSONB,
     random_f FLOAT8 NULL DEFAULT random(),
     created_at TIMESTAMPTZ NULL DEFAULT now():::TIMESTAMPTZ,
     updated_at TIMESTAMPTZ NULL DEFAULT now():::TIMESTAMPTZ,
@@ -22,5 +21,6 @@
     ) STORED,
     pure_id BOOL NULL DEFAULT false,
     rm_type STRING NULL,
-    specimen STRING NOT NULL
+    specimen STRING NOT NULL,
+    statesNationals BOOL NOT NULL DEFAULT false
   );
