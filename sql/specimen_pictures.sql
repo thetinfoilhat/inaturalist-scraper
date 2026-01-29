@@ -3,10 +3,10 @@
 
 CREATE TABLE IF NOT EXISTS public.specimen_pictures (
   id UUID PRIMARY KEY,
-  specimen STRING[] NOT NULL,
+  specimen STRING NOT NULL,
   cloudinary_link STRING NOT NULL,
   event_name STRING NOT NULL,
   created_at TIMESTAMPTZ NULL DEFAULT now():::TIMESTAMPTZ,
   updated_at TIMESTAMPTZ NULL DEFAULT now():::TIMESTAMPTZ,
-  distractors STRING[],
+  distractors STRING[]
 );
