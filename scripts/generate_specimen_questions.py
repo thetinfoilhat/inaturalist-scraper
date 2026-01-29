@@ -210,20 +210,129 @@ def _rocks_prompt(specimen: str) -> str:
         "- specimen field must equal the provided specimen name exactly.\n"
         "- statesNationals should be false unless a question is SN-only.\n"
         "- pure_id questions must use difficulty 0.5.\n"
-        "- Do NOT mention the specimen name in the question text for any non-pure question.\n"
+        "- Do NOT mention the specimen name in any question text (including pure ID).\n"
+        "If you are unsure, return an empty array []."
+    )
+
+
+def _entomology_prompt(specimen: str) -> str:
+    subtopics = ["Behavior", "Classification", "Ecology", "Insect Anatomy", "Life Cycles"]
+    rules = (
+        "Task: Create exactly 20 MCQ questions and up to 20 FRQ questions for a single entomology specimen. "
+        "For this run, scale to 75 total questions while preserving topic balance.\n"
+        "Stimulus: Every question must explicitly reference the specimen shown using anchoring language.\n"
+        "Do NOT mention the insect name unless the question explicitly asks for it.\n"
+        "Do not repeat the same observable trait or inference twice.\n"
+        "No dissections, destructive testing, maps, or unlabeled diagrams.\n"
+        "No purely definitional textbook questions.\n"
+        "Required Topic Distribution (for 35 non-pure MCQ):\n"
+        "- Morphology & Anatomy: 8\n"
+        "- Life History & Development: 7\n"
+        "- Ecology & Behavior: 7\n"
+        "- Economic / Human Interaction: 5\n"
+        "- High-Difficulty Synthesis: 4\n"
+        "- Paired Comparison: 4\n"
+        "Difficulty calibration: 0.1–0.3 observable, 0.4–0.6 applied, 0.7–0.9 synthesis, 1.0 nationals.\n"
+        "At least 6 questions must be >= 0.7.\n"
+        "snOnly=true only for IPM, invasive species, conservation, climate change, urban/ag strategies.\n"
+    )
+    return (
+        "You are an expert Science Olympiad Entomology question author.\n"
+        f"Specimen name (for pure ID questions only): {specimen}\n\n"
+        "Generate JSON ONLY as an array of question objects.\n"
+        "- Include EXACTLY 35 non-pure MCQ questions.\n"
+        "- Include EXACTLY 35 non-pure FRQ questions that are direct derivatives of those MCQs.\n"
+        "- Include EXACTLY 2 pure ID questions total: 1 MCQ and 1 FRQ.\n"
+        "- The question text for BOTH pure ID questions MUST be exactly: \"Identify this specimen.\".\n"
+        "- No other questions may have pure_id=true.\n"
+        "- TOTAL output must be EXACTLY 72 questions.\n"
+        "- For non-pure questions, do NOT mention the specimen name.\n"
+        "- Every question must be anchored to the specimen shown (use anchoring language).\n\n"
+        f"Rules: {rules}\n\n"
+        "Output JSON ONLY in this schema (fields must exist):\n"
+        f"{json.dumps(_schema_spec(), ensure_ascii=False)}\n\n"
+        "Additional requirements:\n"
+        "- tournament: 'ID Event'\n"
+        "- division: 'B/C'\n"
+        "- subtopics: select 1-2 relevant values from this list only: "
+        + ", ".join(subtopics)
+        + "\n"
+        "- answers must be arrays.\n"
+        "- For MCQ: options must be 4 choices, answer is [0-based index].\n"
+        "- For FRQ: options is [], answer is [string]. Use proper capitalization.\n"
+        "- snOnly=true only for IPM/invasive/conservation/climate/urban/ag strategies.\n"
+        "- pure_id questions must use difficulty 0.5.\n"
+        "- Do NOT mention the specimen name in any question text (including pure ID).\n"
+        "If you are unsure, return an empty array []."
+    )
+
+
+def _water_prompt(specimen: str) -> str:
+    subtopics = [
+        "Dissolved Oxygen",
+        "Ecology",
+        "Identification",
+        "Nutrients",
+        "Pollutants",
+        "Pollution",
+        "Testing",
+        "pH",
+    ]
+    rules = (
+        "Task: Create exactly 20 MCQ questions and 6–10 FRQ questions for a single water quality specimen. "
+        "For this run, scale to 72 total questions while preserving topic balance.\n"
+        "Stimulus: Every question must explicitly reference the specimen shown using anchoring language.\n"
+        "Do NOT ask for identification in non-pure questions.\n"
+        "Do not repeat the same observable trait or ecological inference twice.\n"
+        "No graphs/tables/charts/chemical readouts or numeric test results.\n"
+        "No physical testing (pH/DO/turbidity/BOD) questions.\n"
+        "No purely definitional textbook questions.\n"
+        "Required Topic Distribution (for 35 non-pure MCQ):\n"
+        "- Specimen Morphology & Function: 8\n"
+        "- Feeding Ecology & Trophic Role: 7\n"
+        "- Water Quality Indicator Value: 8\n"
+        "- Environmental & Habitat Interpretation: 6\n"
+        "- High-Difficulty Synthesis: 3\n"
+        "- Paired Comparison: 3\n"
+        "Difficulty calibration: 0.1–0.3 observable, 0.4–0.6 applied, 0.7–0.9 synthesis, 1.0 nationals.\n"
+        "At least 4 questions must be >= 0.7.\n"
+        "snOnly=true only for invasive species impacts, watershed-scale management, "
+        "long-term ecosystem effects, conservation/control strategies.\n"
+    )
+    return (
+        "You are an expert Science Olympiad Water Quality question author.\n"
+        f"Specimen name (for pure ID questions only): {specimen}\n\n"
+        "Generate JSON ONLY as an array of question objects.\n"
+        "- Include EXACTLY 35 non-pure MCQ questions.\n"
+        "- Include EXACTLY 35 non-pure FRQ questions that are direct derivatives of those MCQs.\n"
+        "- Include EXACTLY 2 pure ID questions total: 1 MCQ and 1 FRQ.\n"
+        "- The question text for BOTH pure ID questions MUST be exactly: \"Identify this specimen.\".\n"
+        "- No other questions may have pure_id=true.\n"
+        "- TOTAL output must be EXACTLY 72 questions.\n"
+        "- For non-pure questions, do NOT mention the specimen name.\n"
+        "- Every question must be anchored to the specimen shown (use anchoring language).\n\n"
+        f"Rules: {rules}\n\n"
+        "Output JSON ONLY in this schema (fields must exist):\n"
+        f"{json.dumps(_schema_spec(), ensure_ascii=False)}\n\n"
+        "Additional requirements:\n"
+        "- tournament: 'ID Event'\n"
+        "- division: 'B/C'\n"
+        "- subtopics: select 1-2 relevant values from this list only: "
+        + ", ".join(subtopics)
+        + "\n"
+        "- answers must be arrays.\n"
+        "- For MCQ: options must be 4 choices, answer is [0-based index].\n"
+        "- For FRQ: options is [], answer is [string]. Use proper capitalization.\n"
+        "- snOnly=true only for invasive/watershed/long-term/conservation/control strategies.\n"
+        "- pure_id questions must use difficulty 0.5.\n"
+        "- Do NOT mention the specimen name in any question text (including pure ID).\n"
         "If you are unsure, return an empty array []."
     )
 
 
 def _generic_prompt(event: str, specimen: str) -> str:
-    # Define subtopics based on event type
-    if event == "Entomology":
-        subtopics = ["Anatomy", "Life Cycle", "Behavior", "Ecology", "Taxonomy"]
-    elif event == "Water Quality - Freshwater":
-        subtopics = ["Macroinvertebrates", "Water Chemistry", "Ecosystem Health", "Indicator Species", "Habitat"]
-    else:
-        subtopics = ["Identification", "Characteristics", "Ecology", "Behavior", "Taxonomy"]
-    
+    subtopics = ["Identification", "Characteristics", "Ecology", "Behavior", "Taxonomy"]
+
     return (
         f"You are writing station-based Science Olympiad {event} questions.\n"
         f"Specimen name (for pure ID questions only): {specimen}\n\n"
@@ -231,7 +340,7 @@ def _generic_prompt(event: str, specimen: str) -> str:
         "- Include EXACTLY 35 non-pure MCQ questions.\n"
         "- Include EXACTLY 35 non-pure FRQ questions that are direct derivatives of those MCQs.\n"
         "- Include EXACTLY 2 pure ID questions total: 1 MCQ and 1 FRQ.\n"
-        "- The question text for BOTH pure ID questions MUST be exactly: \"Identify this rock or mineral specimen.\".\n"
+        "- The question text for BOTH pure ID questions MUST be exactly: \"Identify this specimen.\".\n"
         "- No other questions may have pure_id=true.\n"
         "- TOTAL output must be EXACTLY 72 questions.\n"
         "- For non-pure questions, do NOT mention the specimen name.\n"
@@ -287,7 +396,8 @@ def _parse_json(text: str) -> List[Dict[str, Any]]:
         parts = raw.split("```", 2)
         raw = parts[1] if len(parts) > 1 else raw
     def _sanitize(s: str) -> str:
-        # Escape stray backslashes that would break JSON decoding.
+        # Remove control characters and escape stray backslashes.
+        s = re.sub(r"[\x00-\x1F]", " ", s)
         return re.sub(r"\\(?![\"\\/bfnrtu])", r"\\\\", s)
     try:
         return json.loads(raw)
@@ -441,11 +551,22 @@ def generate_questions(
             prompt = _rocks_prompt(specimen)
             if rm_type is None:
                 rm_type = "rock"
+            expected_pure_text = "Identify this rock or mineral specimen."
+            expected_count = 72
+        elif event == "Entomology":
+            prompt = _entomology_prompt(specimen)
+            expected_pure_text = "Identify this specimen."
+            expected_count = 72
+        elif event == "Water Quality - Freshwater":
+            prompt = _water_prompt(specimen)
+            expected_pure_text = "Identify this specimen."
+            expected_count = 72
         else:
             prompt = _generic_prompt(event, specimen)
+            expected_pure_text = "Identify this specimen."
+            expected_count = 72
 
         client = genai.Client(api_key=api_key)
-        expected_pure_text = "Identify this rock or mineral specimen."
         items_out: List[Dict[str, Any]] = []
         attempts = 0
         while attempts < 3:
@@ -464,8 +585,13 @@ def generate_questions(
                     items_out = _parse_json(repaired)
                     LOGGER.info("Repair parse items: %d | specimen=%s", len(items_out), specimen)
             LOGGER.info("Parsed items: %d | specimen=%s", len(items_out), specimen)
-            if len(items_out) != 72:
-                LOGGER.warning("Unexpected count (%d), retrying | specimen=%s | attempt=%d", len(items_out), specimen, attempts)
+            if len(items_out) != expected_count:
+                LOGGER.warning(
+                    "Unexpected count (%d), retrying | specimen=%s | attempt=%d",
+                    len(items_out),
+                    specimen,
+                    attempts,
+                )
                 continue
             if _count_pure_id_issues(items_out, expected_pure_text):
                 LOGGER.warning("Pure ID validation failed, retrying | specimen=%s | attempt=%d", specimen, attempts)
