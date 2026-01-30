@@ -262,7 +262,7 @@ def main() -> int:
                     else:
                         upload = cloudinary.uploader.upload(
                             str(path),
-                            folder=f"bugbo/{event.replace(' ', '_').lower()}",
+                            folder=f"{event.replace(' ', '_').lower()}",
                             public_id=path.stem,
                             overwrite=True,
                             resource_type="image",

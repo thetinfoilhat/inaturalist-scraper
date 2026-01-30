@@ -120,13 +120,56 @@ def _upsert(cur, row: Dict[str, object]) -> None:
             bool(row.get("statesNationals", False)),
         ),
     )
+    LOGGER.info(
+        "Upserted | id=%s | event=%s | specimen=%s | question=%s",
+        row.get("id"),
+        row.get("event"),
+        row.get("specimen"),
+        str(row.get("question", ""))[:80].replace("\n", " "),
+    )
 
+
+def _ensure_specimen_questions_table(cur) -> None:
+    cur.execute(
+        """
+        CREATE TABLE IF NOT EXISTS public.specimen_questions (
+            id UUID PRIMARY KEY,
+            question STRING NOT NULL,
+            tournament STRING NOT NULL,
+            division STRING NOT NULL,
+            options JSONB NULL DEFAULT '[]':::JSONB,
+            answers JSONB NOT NULL,
+            subtopics JSONB NULL DEFAULT '[]':::JSONB,
+            difficulty DECIMAL NULL DEFAULT 0.5:::DECIMAL,
+            event STRING NOT NULL,
+            random_f FLOAT8 NULL DEFAULT random(),
+            created_at TIMESTAMPTZ NULL DEFAULT now():::TIMESTAMPTZ,
+            updated_at TIMESTAMPTZ NULL DEFAULT now():::TIMESTAMPTZ,
+            question_type STRING NULL AS (
+              CASE
+                WHEN (jsonb_typeof(options) = 'array':::STRING)
+                 AND (jsonb_array_length(options) >= 2:::INT8)
+                THEN 'mcq':::STRING
+                ELSE 'frq':::STRING
+              END
+            ) STORED,
+            pure_id BOOL NULL DEFAULT false,
+            rm_type STRING NULL,
+            specimen STRING NOT NULL,
+            statesNationals BOOL NOT NULL DEFAULT false
+        )
+        """
+    )
 
 def main() -> int:
     ap = argparse.ArgumentParser(description="Ingest specimen_questions JSON files into CockroachDB.")
     ap.add_argument("--data-dir", default="/Users/lm/Bugbo/scripts/data")
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--log-level", default="DEBUG")
+    ap.add_argument("--rocks", action="store_true")
+    ap.add_argument("--entomology", action="store_true")
+    ap.add_argument("--water", action="store_true")
+    ap.add_argument("--event", action="append", default=[], help="Custom filename base (without extension)")
     args = ap.parse_args()
 
     _setup_logging(args.log_level)
@@ -134,6 +177,21 @@ def main() -> int:
 
     data_dir = Path(args.data_dir)
     files = sorted([p for p in data_dir.iterdir() if p.suffix in {".json", ".jsonl"}])
+    if args.rocks or args.entomology or args.water or args.event:
+        selected: List[Path] = []
+        if args.rocks:
+            selected.append(data_dir / "rocks_questions.json")
+            selected.append(data_dir / "rocks_questions.jsonl")
+        if args.entomology:
+            selected.append(data_dir / "entomology_questions.json")
+            selected.append(data_dir / "entomology_questions.jsonl")
+        if args.water:
+            selected.append(data_dir / "water_questions.json")
+            selected.append(data_dir / "water_questions.jsonl")
+        for ev in args.event:
+            selected.append(data_dir / f"{ev}.json")
+            selected.append(data_dir / f"{ev}.jsonl")
+        files = [p for p in selected if p.exists()]
     if not files:
         LOGGER.error("No json/jsonl files found in %s", data_dir)
         return 1
@@ -142,7 +200,10 @@ def main() -> int:
     cur = None if args.dry_run else conn.cursor()
 
     total = 0
+    seen_ids = set()
     try:
+        if cur:
+            _ensure_specimen_questions_table(cur)
         for path in files:
             LOGGER.info("Processing %s", path.name)
             items = _iter_json_items(path)
@@ -151,6 +212,11 @@ def main() -> int:
                 total += len(items)
                 continue
             for row in items:
+                rid = row.get("id")
+                if rid in seen_ids:
+                    LOGGER.warning("Duplicate id in input: %s", rid)
+                    continue
+                seen_ids.add(rid)
                 _upsert(cur, row)
                 total += 1
             conn.commit()

@@ -16,10 +16,16 @@ logger = logging.getLogger("inat_scrape")
 
 TAXON_ID_URL = "https://api.inaturalist.org/v1/taxa?q={taxon}&per_page=50"
 OBSERVATIONS_URL = (
-    "https://api.inaturalist.org/v1/observations?photos=true&photo_licensed=true"
-    + "&place_id=46,10,50,22,14,16,15,52,34,40,9,13,44,3,25,12,18,38,24,28,36,27,32,29,35,20,31,33,26,45,37,19,17,41,47,2,8,49,48,51,42,4,39,5,7,30,43,23,21"
-    + "&taxon_id={taxon_id}&quality_grade=research&per_page={count}"
+    "https://api.inaturalist.org/v1/observations?photos=true"
+    + "{photo_licensed}"
+    + "{place_filter}"
+    + "&taxon_id={taxon_id}&quality_grade={quality_grade}&per_page={count}"
     + "&order_by=id&order=asc&id_above={last_id}"
+)
+
+PLACE_IDS = (
+    "46,10,50,22,14,16,15,52,34,40,9,13,44,3,25,12,18,38,24,28,36,27,32,29,35,20,31,33,"
+    "26,45,37,19,17,41,47,2,8,49,48,51,42,4,39,5,7,30,43,23,21"
 )
 IMAGE_URL = "https://inaturalist-open-data.s3.amazonaws.com/photos/{id}/medium.{ext}"
 
@@ -52,11 +58,14 @@ async def get_urls_for_taxon(
     session: aiohttp.ClientSession,
     taxon: str,
     count: int,
+    quality_grade: str,
+    photo_licensed: bool,
+    use_place_filter: bool,
     retries: int = 2,
 ) -> List[str]:
     for attempt in range(retries + 1):
         try:
-            _, urls, _ = await get_urls(session, taxon, 0, count)
+            _, urls, _ = await get_urls(session, taxon, 0, count, quality_grade, photo_licensed, use_place_filter)
             return list(urls)
         except aiohttp.ClientError as exc:
             logger.warning("request failed (%s): %s", taxon, exc)
@@ -80,6 +89,9 @@ async def get_urls(
     item: str,
     index: int,
     count: int,
+    quality_grade: str,
+    photo_licensed: bool,
+    use_place_filter: bool,
 ) -> tuple[int, tuple[str, ...], tuple[str, ...]]:
     taxon_id = await get_taxon_id(item, session)
     if not taxon_id:
@@ -88,14 +100,30 @@ async def get_urls(
 
     urls = []
     ids = []
+    photo_licensed_q = "&photo_licensed=true" if photo_licensed else ""
+    place_filter_q = f"&place_id={PLACE_IDS}" if use_place_filter else ""
     async with session.get(
-        OBSERVATIONS_URL.format(taxon_id=taxon_id, count=count, last_id=index)
+        OBSERVATIONS_URL.format(
+            taxon_id=taxon_id,
+            count=count,
+            last_id=index,
+            quality_grade=quality_grade,
+            photo_licensed=photo_licensed_q,
+            place_filter=place_filter_q,
+        )
     ) as resp:
         observations = (await resp.json())["results"]
 
     if not observations:
         async with session.get(
-            OBSERVATIONS_URL.format(taxon_id=taxon_id, count=count, last_id="")
+            OBSERVATIONS_URL.format(
+                taxon_id=taxon_id,
+                count=count,
+                last_id="",
+                quality_grade=quality_grade,
+                photo_licensed=photo_licensed_q,
+                place_filter=place_filter_q,
+            )
         ) as resp:
             observations = (await resp.json())["results"]
 
@@ -142,6 +170,8 @@ async def download_images(
 
 async def run(args: argparse.Namespace) -> None:
     taxa = list(iter_nats_list(args.nats_list))
+    if args.only_taxon:
+        taxa = [args.only_taxon]
     if args.limit_taxa:
         taxa = taxa[: args.limit_taxa]
 
@@ -151,7 +181,14 @@ async def run(args: argparse.Namespace) -> None:
     async with aiohttp.ClientSession(connector=connector) as session:
         for taxon in taxa:
             logger.info("taxon: %s", taxon)
-            urls = await get_urls_for_taxon(session, taxon, args.per_taxon)
+            urls = await get_urls_for_taxon(
+                session,
+                taxon,
+                args.per_taxon,
+                args.quality_grade,
+                not args.allow_unlicensed,
+                not args.no_place_filter,
+            )
             if len(urls) > args.per_taxon:
                 urls = urls[: args.per_taxon]
             logger.info("urls returned: %s", len(urls))
@@ -170,12 +207,12 @@ def main() -> None:
     )
     parser.add_argument(
         "--nats-list",
-        default=os.path.join("data", "state", "NATS", "list.txt"),
+        default=os.path.join("data", "entomology", "nats.txt"),
         help="Path to NATS list.txt file.",
     )
     parser.add_argument(
         "--outdir",
-        default="inat_images",
+        default=os.path.join("images", "ento"),
         help="Output directory for images.",
     )
     parser.add_argument(
@@ -185,10 +222,30 @@ def main() -> None:
         help="Number of images to download per taxon.",
     )
     parser.add_argument(
+        "--quality-grade",
+        default="research,needs_id,casual",
+        help="Comma-separated quality grades (e.g., research,needs_id,casual).",
+    )
+    parser.add_argument(
+        "--allow-unlicensed",
+        action="store_true",
+        help="Allow unlicensed photos (default: licensed only).",
+    )
+    parser.add_argument(
+        "--no-place-filter",
+        action="store_true",
+        help="Disable place_id filter (use global observations).",
+    )
+    parser.add_argument(
         "--limit-taxa",
         type=int,
         default=0,
         help="Limit number of taxa for a smaller run (0 = no limit).",
+    )
+    parser.add_argument(
+        "--only-taxon",
+        default="",
+        help="Only scrape a single taxon name (e.g., cercopidae).",
     )
     args = parser.parse_args()
 
