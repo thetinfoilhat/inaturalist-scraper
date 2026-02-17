@@ -194,12 +194,25 @@ def _upsert(cur, row: Dict[str, object]) -> None:
     )
 
 
+def _load_existing_ids(cur, event: str) -> set[str]:
+    cur.execute(
+        """
+        SELECT id
+        FROM public.specimen_pictures
+        WHERE event_name = %s
+        """,
+        (event,),
+    )
+    return {str(row[0]) for row in cur.fetchall()}
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(description="Upload specimen images and upsert specimen_pictures.")
     ap.add_argument("--rocks", action="store_true")
     ap.add_argument("--entomology", action="store_true")
     ap.add_argument("--water", action="store_true")
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--skip-existing", action="store_true", help="Skip rows that already exist in specimen_pictures by deterministic id.")
     ap.add_argument("--log-level", default="DEBUG")
     args = ap.parse_args()
 
@@ -228,6 +241,10 @@ def main() -> int:
             images_dir = root / src["images_dir"]
             lookup, specimen_list = _load_specimens(data_path, src["specimen_key"])
             image_map = _image_map(images_dir)
+            existing_ids: set[str] = set()
+            if cur and args.skip_existing:
+                existing_ids = _load_existing_ids(cur, event)
+                LOGGER.info("Loaded %d existing rows for %s", len(existing_ids), event)
 
             missing = [s for s in specimen_list if _normalize(s) not in image_map]
             if missing:
@@ -255,6 +272,10 @@ def main() -> int:
                 if not paths:
                     continue
                 for path in paths:
+                    row_id = _deterministic_uuid(event, specimen, path.name)
+                    if row_id in existing_ids:
+                        LOGGER.debug("Skipping existing row | specimen=%s | file=%s | id=%s", specimen, path.name, row_id)
+                        continue
                     distractors = _pick_distractors(specimen_list, specimen, count=3)
                     LOGGER.info("Uploading %s | specimen=%s", path.name, specimen)
                     if args.dry_run:
@@ -272,7 +293,7 @@ def main() -> int:
                         url = upload.get("secure_url") or upload.get("url")
                     LOGGER.debug("Cloudinary URL: %s", url)
                     row = {
-                        "id": _deterministic_uuid(event, specimen, path.name),
+                        "id": row_id,
                         "specimen": specimen,
                         "cloudinary_link": url,
                         "event_name": event,
@@ -282,6 +303,7 @@ def main() -> int:
                         LOGGER.info("Dry run row: %s", row)
                     else:
                         _upsert(cur, row)
+                        existing_ids.add(row_id)
                         LOGGER.debug("Upserted DB row | specimen=%s | file=%s", specimen, path.name)
                         conn.commit()
             if cur:
